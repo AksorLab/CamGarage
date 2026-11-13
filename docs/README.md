@@ -2,6 +2,8 @@
 
 Research and product notes. Status: **draft v1**, written overnight by nanobot. Search tooling was flaky, so several gaps are listed in `05-open-questions.md`.
 
+Round 2 added JICA findings, CamPark, and regulation notes (see "Round 2" sections).
+
 - `01-market-research.md`: Cambodia parking market: numbers, pain points, payments
 - `02-competitors.md`: who already exists
 - `03-data-sources.md`: what data is available and how good it is

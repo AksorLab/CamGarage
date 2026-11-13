@@ -12,3 +12,9 @@ Only what I could see on public pages. Nothing here was tested in the app stores
 
 - **[assumption]** The gap is probably a **neutral consumer directory** of lots and garages, with hours, price and services, across operators. Operator systems (SuperPark, Keytop) each serve their own sites. We could be the layer that lists all of them, rather than build hardware.
 - **Risk:** AnkorPark may already be heading there. Check it by installing it, if there is an app.
+
+## Round 2 additions
+
+- **CamPark** (Google Play id `com.mef.gdde.cam.park`). **[verified]** it exists. The package name suggests the Ministry of Economy and Finance (`mef`), but **[assumption]**: not confirmed. Description: real-time parking availability in Phnom Penh, Siem Reap and other cities, "find free parking spots". **Unknown:** who runs it, how many lots, ratings and downloads. This is the closest competitor and possibly government. Install and test it first.
+- **AnkorPark**: the home page still only has marketing text (real-time availability, digital payments, automated entry/exit). **[verified]** the site is up. No lot list, no app links visible in the extracted text. Still unknown if live.
+- L2R/SuperPark/Keytop confirmed in search results as ANPR vendors. **[verified]**

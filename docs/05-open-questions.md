@@ -33,3 +33,16 @@
 - Chicken and egg: drivers want listings, owners want drivers.
 - Many users are on motorcycles with informal paid parking. These are hard to map and mostly unpriced.
 - Legal and ToS issues from scraping.
+
+## Round 2 status
+
+Done: Phnom Penh supply/demand and illegal parking reasons (JICA), historical on-street rules, AnkorPark page check, CamPark found.
+
+Still missing:
+- Whether the parking law passed, and current on-street fee rates and who collects them.
+- What CamPark is, who owns it, how many lots. AnkorPark's real status.
+- Siem Reap, Sihanoukville, Battambang: nothing found.
+- KHQR transaction volumes (search failed again).
+- AEON fee table (403), Kiripost, Scribd paper on illegal parking (blocked).
+- JICA figure data (capacity numbers, fee table) are images; read the PDF by hand.
+- New question: CamPark may be government and overlap fully. Does that change the idea (offer more data, payments, or a different user)?

@@ -27,3 +27,9 @@ I queried Overpass for `amenity=parking` in a Phnom Penh bounding box (lat 11.45
 ## Takeaway
 
 Plan on building the listing dataset ourselves, with owner self-service and community edits on top of an OSM seed.
+
+## Round 2 additions
+
+- **JICA 2022-23 survey** has an inventory of 17 off-street facilities with hours, capacity and fee. Good as a validation set, but small, and the facility names are in figures. **[source-claim]**
+- **CamPark** may hold an official list of lots. Worth asking its owner for data sharing. **[assumption]**
+- **L2R/Keytop** operator systems hold real availability and prices. **[assumption]** partnership route.

@@ -1,0 +1,3198 @@
+[p4]
+Data Collection Survey on Urban Transport in Phnom Penh 
+Final Report 
+ii 
+4.3.1 Urban Vision and Urban Structure ...................................................................................... 4-14 
+4.3.2 2035 Urban Transport System ............................................................................................. 4-15 
+4.3.3 Discussion for National Approval of PPUTMP .................................................................. 4-17 
+4.3.4 Utilization of PPUTMP ....................................................................................................... 4-18 
+4.4 Other Plans related to Urban Transport in Phnom Penh ............................................................. 4-19 
+4.4.1 Phnom Penh Urban Transport Master Plan Revision Work (PPUTMP Revision Work) ..... 4-19 
+4.4.2 The Project for Improvement of Public Bus Operation in Phnom Penh (PiBO) ................. 4-22 
+4.4.3 The Project for Development of Traffic Management System in Phnom Penh  
+(Grant Aid) .......................................................................................................................... 4-23 
+4.4.4 Project for Capacity Development on Comprehensive Traffic Management Planning  
+and Traffic Control Centre Operation and Maintenance in Phnom Penh Capital City ........ 4-24 
+4.4.5 Supporting Sustainable Integrated Urban Public Transport Development - Sustainable 
+Integrated Urban Public Transport Development (ADB Study) ......................................... 4-25 
+4.4.6 Urban Railway ..................................................................................................................... 4-27 
+Chapter 5 Transport Surveys 
+5.1 Outline of Transport Surveys ........................................................................................................ 5-1 
+5.2 Consideration for Conducting Transport Surveys under COVID-19 Pandemic ........................... 5-2 
+5.2.1 Monitoring of Effect of COVID-19 on Transport Behaviour in Phnom Penh ...................... 5-2 
+5.2.2 Discussions with PPCA ......................................................................................................... 5-3 
+5.3 Description/ Result of Transport Surveys ..................................................................................... 5-5 
+5.3.1 Person Trip Survey/Commuter Survey (PT/CS) ................................................................... 5-5 
+5.3.2 Cordon Line Survey (CLS) ................................................................................................. 5-13 
+5.3.3 Screen Line Survey (SLS) ................................................................................................... 5-18 
+5.3.4 Passenger Interview Survey (PIS) ....................................................................................... 5-22 
+5.3.5 Roadside Traffic Survey (RTS) ........................................................................................... 5-29 
+5.3.6 Intersection Traffic Survey (ITS) ........................................................................................ 5-30 
+5.3.7 Travel Speed Survey (TSS) ................................................................................................. 5-31 
+5.3.8 Parking Condition Survey (PCS)......................................................................................... 5-34 
+5.3.9 RHS Driver Interview Survey ............................................................................................. 5-38 
+5.3.10 Truck Interview Survey (TIS) ............................................................................................. 5-43 
+Chapter 6 Transport Demand Forecast 
+6.1 Transport Demand Forecasting Approach ..................................................................................... 6-1 
+6.1.1 Outline of Transport Demand Forecasting ............................................................................ 6-1 
+6.1.2 Vehicle Classification ............................................................................................................ 6-2 
+6.1.3 Zone System and Target Area ................................................................................................ 6-2 
+6.1.4 Road and Public Transport Network ..................................................................................... 6-6 
+6.2 Assumptions for Transport Demand Forecasting .......................................................................... 6-7 
+6.2.1 Future Road Network and Public Transport Network ........................................................... 6-7 
+6.2.2 Trips from/to External Zones ................................................................................................ 6-9 
+6.2.3 Parameters for Network Assignment ................................................................................... 6-16 
+6.2.4 Effect of COVID-19 Pandemic ........................................................................................... 6-18 
+
+[p5]
+Data Collection Survey on Urban Transport in Phnom Penh 
+Final Report 
+iii 
+6.3 Results of Transport Demand Forecasting .................................................................................. 6-20 
+6.3.1 Population Synthesis ........................................................................................................... 6-20 
+6.3.2 Vehicle Ownership .............................................................................................................. 6-20 
+6.3.3 Trip Generation in Internal Zones ....................................................................................... 6-21 
+6.3.4 Trip Distribution in Internal Zones ...................................................................................... 6-22 
+6.3.5 Modal Share in Internal Zones ............................................................................................ 6-23 
+6.3.6 Network Assignment Results .............................................................................................. 6-24 
+Chapter 7 Identifying Issues on Urban Transport Sector in Phnom Penh 
+7.1 Progress of PPUTMP Projects/Programme ................................................................................... 7-1 
+7.1.1 Public Transport Sector ......................................................................................................... 7-1 
+7.1.2 Highway Sector ..................................................................................................................... 7-5 
+7.1.3 Traffic Management Sector ................................................................................................... 7-9 
+7.2 Issues in Urban Transport ........................................................................................................... 7-13 
+7.2.1 Impacts Caused by Upper Planning and Urban Transport Project/Programme .................. 7-13 
+7.2.2 Institutional and Organisational Issues in Urban Transport ................................................ 7-15 
+7.2.3 Issues on Urban Transport-related Infrastructure and Facilities .......................................... 7-17 
+7.2.4 Issues in Urban Transport Service ....................................................................................... 7-25 
+7.3 Issues in Urban Transport Sector and Causal Relationship Analysis .......................................... 7-31 
+7.3.1 Fragmented Efforts to Improve Urban Transport Sectors ................................................... 7-31 
+7.3.2 Causal Relationship Analysis on Issues to Promote Public Transport ................................ 7-32 
+7.3.3 Causal Relationship Analysis on On-street Parking Issues ................................................. 7-34 
+Chapter 8 Development Scenario 
+8.1 Development Scenario of PPUTMP ............................................................................................. 8-1 
+8.1.1 Five Development Strategies in PPUTMP ............................................................................ 8-1 
+8.1.2 Review of External and Internal Factors of Development of PPUTMP ............................... 8-1 
+8.2 SWOT Analysis ............................................................................................................................. 8-2 
+8.2.1 Overview of SWOT Analysis ................................................................................................ 8-3 
+8.2.2 External Factors ..................................................................................................................... 8-3 
+8.2.3 Internal Factors ...................................................................................................................... 8-7 
+8.3 Formulation of New Conceptual Strategy for Urban Transport .................................................. 8-10 
+8.3.1 Perspectives for New Strategy Formulation ........................................................................ 8-10 
+8.3.2 Formulation of New Conceptual Strategy for Urban Transport .......................................... 8-11 
+Chapter 9 Implementation Plan 
+9.1 Implementation Plan ..................................................................................................................... 9-1 
+9.1.1 Implementation Plan .............................................................................................................. 9-1 
+9.1.2 Organisation and System ....................................................................................................... 9-4 
+9.2 Consideration for Future Cooperation in Urban Transport Sector ................................................ 9-5 
+9.3 Recommendation ................................................................................................................ .......... 9-8 
+
+[p8]
+Data Collection Survey on Urban Transport in Phnom Penh 
+Final Report 
+vi 
+Figure 3.1.4 Annual Revenue and Expenditure ................................................................................... . 3-5 
+Figure 3.1.5 RHS Vehicles in Phnom Penh ....................................................................................... ... 3-6 
+Figure 3.1.6 Relationship of Driver, Users, Comp anies and Regulators on RHS in Phnom Penh ....... 3-7 
+Figure 3.1.7 Traffic Management Measures by Type in Phnom Penh ................................................ 3-11  
+Figure 3.1.8 Loaded Truck Routes during Daytime ........................................................................... 3-1 4 
+Figure 3.2.1 Bus Routes and Terminals ......................................................................................... ..... 3-15 
+Figure 3.2.2 Number of Bus Fleet and Route ..................................................................................... 3-15 
+Figure 3.2.3 Bus Route Map when Operation Resumed in November 2021 ..................................... 3-16  
+Figure 3.2.4 Number of Mont hly Passengers by Route ...................................................................... 3-18 
+Figure 3.2.5 Number of Paid and Free Passengers ............................................................................. 3 -18 
+Figure 3.2.6 Number of Daily Passengers since 2 nd November 2021 ................................................ 3-19 
+Figure 3.2.7 Layout Plan of Bus Depot ......................................................................................... ..... 3-20 
+Figure 3.2.8 Parking at Bus Depot.............................................................................................. ........ 3-20 
+Figure 3.2.9 Commuter Truck ................................................................................................... ......... 3-21 
+Figure 3.2.10 Ferry(Russey Keo-Takhmao) ....................................................................................... .. 3-21 
+Figure 3.2.11 Location of the Inter City Bus Terminals ....................................................................... 3-22 
+Figure 3.2.12 Locally-built Elect ric Vehicle (ONiON T1) ................................................................... 3-24 
+Figure 3.2.13 Electric Moto rcycle Sharing (Go2) ................................................................................ 3-24 
+Figure 3.2.14 EV Charging Standards ........................................................................................... ....... 3-25 
+Figure 3.2.15 Changes in Number of  Lanes and Road Conditions ...................................................... 3-26 
+Figure 3.2.16 Prioritised Expressway Plan around Phnom Penh ......................................................... 3-28  
+Figure 3.2.17 Location of Signalized Intersections in 2014 and 2018 ................................................. 3-29 
+Figure 3.2.18 One-way Roads ................................................................................................... ........... 3-29 
+Figure 3.2.19 Underground Parking ............................................................................................. ........ 3-30 
+Figure 3.2.20 Phnom Penh Port ................................................................................................. ........... 3-31 
+Figure 3.2.21 Trend of Handling Contai ner V olume at Phnom Penh Port ........................................... 3-31 
+Figure 3.2.22 Distribution of Container Cargo Commodity Handled at Phnom Penh Port  
+(Yr. 2022, Left: Import, Right: Export） ....................................................................... 3-32 
+Figure 3.2.23 Location Map of Dry Ports ....................................................................................... ...... 3-34 
+Figure 4.1.1 Rectangular  Strategy Phase IV ......................................................................................... 4-1 
+Figure 4.2.1 Urban Formation Process of  Phnom Penh from 1890 to 1958 ......................................... 4-5 
+Figure 4.2.2 Future Land Master Plan of Phnom Penh City 2035 ........................................................ 4-6  
+Figure 4.2.3 Linkage between Phnom Penh Sustainable City Plan and other Major Plans ................. 4-8  
+Figure 4.2.4 Location of Housing and C ondominiums Development Projects .................................. 4-11 
+Figure 4.2.5 Example of Status for Housing and Condominiums Development Projects .................. 4-11 
+Figure 4.2.6 Koh Norea Sa tellite City Project .................................................................................... 4-12 
+Figure 4.2.7 Layout of Phnom Penh New International Airport ........................................................ 4-13  
+Figure 4.2.8 Image of Phnom Penh New International Airport .......................................................... 4-13  
+Figure 4.3.1 Urban Vision and Urban Structure of PPUTMP ............................................................ 4-15  
+Figure 4.3.2 Trunk Public Transport System Proposed in PPUTMP ................................................. 4-15  
+Figure 4.3.3 Other Public Transport Modes Proposed in PPUTMP ................................................... 4-16  
+
+[p10]
+Data Collection Survey on Urban Transport in Phnom Penh 
+Final Report 
+viii 
+Figure 5.3.27 Opinion on No Entry Policy of RHS on Arterial Roads ................................................. 5-25  
+Figure 5.3.28 Major Reason for Using RHS (RHS Users) ................................................................... 5-25  
+Figure 5.3.29 Major Reasons  Not to Use City Bus .............................................................................. 5-26 
+Figure 5.3.30 Important Measures to Reali ze Integration of City Bus & RHS .................................... 5-26 
+Figure 5.3.31 Willingness to Use City Bus When  Measures are Implemented (CAR, MC, RHS  
+Users) ............................................................................................................................. 5-27 
+Figure 5.3.32 Opinion on Fare Level a nd Operation Hour of City Bus ............................................... 5-27 
+Figure 5.3.33 Opinion on Illegal Roadside Parking .............................................................................  5-28 
+Figure 5.3.34 Reason for Using Commuter Bus ...................................................................................  5-28 
+Figure 5.3.35 Map of the Roadside Traffic Survey Location ............................................................... 5-29  
+Figure 5.3.36 Map of Intersection Traffic Survey Location ................................................................. 5-3 0 
+Figure 5.3.37 Comparison of Inflow Traffic at Intersections ( 2012 and 2022) .................................... 5-31 
+Figure 5.3.38 Travel Speed Survey Routes for Passenger Car ............................................................. 5-32  
+Figure 5.3.39 Comparison of Average Travel Speed  (Morning Peak) (2001, 2012 and 2022) ............ 5-33 
+Figure 5.3.40 RHS Vehicle Movement ............................................................................................ ..... 5-34 
+Figure 5.3.41 Average Travel Speed of  City Bus (Line 4B) (All Time) ............................................... 5-34 
+Figure 5.3.42 Map of the Parking Condition Survey Location ............................................................ 5-35  
+Figure 5.3.43 Transition of Parking De mand (Off-street and On-street) .............................................. 5-37 
+Figure 5.3.44 Comparison between Parking Dema nd and Parking Capacity (Block A-E) .................. 5-37 
+Figure 5.3.45 Distance from Parking Facilities to Destinations ........................................................... 5-38  
+Figure 5.3.46 Behaviour Change in case of St rict Enforcement for Illegal Parking ............................ 5-38 
+Figure 5.3.47 Map of the RHS Driver Interview Survey Locations ..................................................... 5-39  
+Figure 5.3.48 Year of Starting the Job of  Tuk-tuk Driver (RHS Drivers) ............................................ 5-39 
+Figure 5.3.49 Year of Starting RHS Application (RHS Drivers) .......................................................... 5-39  
+Figure 5.3.50 Average Daily Driving Distance by RHS Drivers .......................................................... 5-40  
+Figure 5.3.51 Location when Waiting for Passengers (RHS Drivers) .................................................. 5-40  
+Figure 5.3.52 Coverage of Driving Servi ce by RHS Drivers (by Districts) ......................................... 5-41 
+Figure 5.3.53 RHS Driver ’s Revenue (Current) ................................................................................... 5-42 
+Figure 5.3.54 RHS Driver’s Estimated Actual Revenue ...................................................................... 5-42  
+Figure 5.3.55 Comparison of RHS Driver’s Re venue before/after COVID-19 Pandemic ................... 5-42 
+Figure 5.3.56 Survey Locations of Truck Interview Survey................................................................. 5-43  
+Figure 5.3.57 Estimated Truck OD Distribution in 2022 ..................................................................... 5-45 
+Figure 5.3.58 Classification of GPS Prove-data and Trip..................................................................... 5-47 
+Figure 6.1.1 Flow of Tran sport Demand Forecast ................................................................................ 6-1 
+Figure 6.1.2 TAZ Boundary inside CBD .......................................................................................... .... 6-3 
+Figure 6.1.3 TAZ Boundary inside CBD and Suburbs ......................................................................... 6-3  
+Figure 6.1.4 TAZ Boundary inside Phnom Penh .................................................................................. 6-4 
+Figure 6.1.5 TAZ Boundary in Whole Cambodia ................................................................................. 6 -4 
+Figure 6.1.6 Large TAZ (LTAZ) Boundary inside Phnom Penh .......................................................... 6-5  
+Figure 6.1.7 Large TAZ (LTAZ) Boundary in Whole Cambodia ......................................................... 6-5  
+Figure 6.1.8 Current Road Network and Capacity ............................................................................... 6-6 
+
+[p11]
+Data Collection Survey on Urban Transport in Phnom Penh 
+Final Report 
+ix 
+Figure 6.2.1 Forecasted Population of Cambodia .............................................................................. 6 -10 
+Figure 6.2.2 Transition of Cambodia’s Estimated GDP and Estimated Number of Annual  
+Passengers at PPIA ......................................................................................................... 6-12 
+Figure 6.2.3 Number of Annual Passengers Adopted for Estimation of Airport Passenger Trips ...... 6-13 
+Figure 6.2.4 Truck Trip OD Estimation Flow ....................................................................................  6-13 
+Figure 6.2.5 Truck Trip Generation Model ...................................................................................... ... 6-14 
+Figure 6.2.6 Relationship between V/C and Speed/ Travel Time by Link Performance Function ..... 6-17 
+Figure 6.2.7 Distribution of PT/CS Sample Collection Dates (by weeks, household basis) .............. 6-18  
+Figure 6.3.1 Change in Vehicle Ownership in the Future ................................................................... 6-21 
+Figure 6.3.2 Trip Generation by Trip Purpose .................................................................................. .. 6-22 
+Figure 6.3.3 Trip Distribution (LTAZ level) ................................................................................... .... 6-22 
+Figure 6.3.4 Validation of Base Model (Screen Line Survey) ............................................................ 6-24  
+Figure 6.3.5 Validation of B ase Model (Travel Speed) ...................................................................... 6-24 
+Figure 6.3.6 Road Assignment Result (Base Scenario) ...................................................................... 6-26 
+Figure 6.3.7 Road Assignment Result (Do Nothing Scenario in 2035) .............................................. 6-26  
+Figure 6.3.8 Road Assignment Result (With Scenario in 2035) ......................................................... 6-27  
+Figure 6.3.9 Public Transport Assignment R esult (Do Nothing Scenario in 2035) ............................ 6-27 
+Figure 6.3.10 Public Transport Assignment Result (Do Nothing Scenario in 2035) ............................ 6-28  
+Figure 7.1.1 Location of the Public Transport Projects in PPUTMP ................................................... 7-4 
+Figure 7.1.2 City Bus Provided by Japan ............................................................................................. 7-5 
+Figure 7.1.3 Bus Depot ......................................................................................................................... 7-5 
+Figure 7.1.4 Bus Location App ................................................................................................. ............ 7-5 
+Figure 7.1.5 Airport Rail Link (Suspended) .................................................................................... ..... 7-5 
+Figure 7.1.6 Widening of RR -III (NR-4 - 4km section) ....................................................................... 7-7 
+Figure 7.1.7 Widening of Ru ssia/NR-4 (IRR - RR-IV) ........................................................................ 7-7 
+Figure 7.1.8 Location of the Highway Projects in PPTUMP (Detail View) ......................................... 7-8  
+Figure 7.1.9 Location of the Highway Projects in PPTUMP (Whole PPCA Area) .............................. 7-9  
+Figure 7.1.10 Traffic Signal with CCTV ........................................................................................ ...... 7-11 
+Figure 7.1.11 Traffic Control Centre .......................................................................................... .......... 7-11 
+Figure 7.1.12 Location of the Traffic Management Projects in PPUTMP ........................................... 7-12  
+Figure 7.2.1 Location of the Urban Development Projects in Suburbs of Phnom Penh .................... 7-13  
+Figure 7.2.2 Progress of the Proj ects Proposed in PPTUMP .............................................................. 7-14 
+Figure 7.2.3 Absence of Transport Planning and Coordination Agencies .......................................... 7-15  
+Figure 7.2.4 Bus Stop Design ............................................................................................................. 7-18  
+Figure 7.2.5 Number of Newly Registered Vehicles .......................................................................... 7-20 
+Figure 7.2.6 Number of Traffic Acci dents, Injuries and Fatalities ..................................................... 7-21 
+Figure 7.2.7 Traffic Accident Hotspot ................................................................................................ 7-22 
+Figure 7.2.8 Privatised Sidewalk and Unwalkable Pedestrian Walkway ........................................... 7-23  
+Figure 7.2.9 Opinions on  Roadside Parking ....................................................................................... 7-24 
+Figure 7.2.10 Operation Frequency of City Bus ................................................................................. .. 7-26 
+Figure 7.2.11 Reason of Missed Trip (2018-2019) ...............................................................................  7-28 
+
+[p12]
+Data Collection Survey on Urban Transport in Phnom Penh 
+Final Report 
+x 
+Figure 7.2.12 Operating Speed  of City Bus in 2019 ............................................................................. 7-29 
+Figure 7.2.13 Operating Sp eed of City Bus (4A) ................................................................................. 7-29 
+Figure 7.2.14 City Bus Coverage Area .......................................................................................... ....... 7-30 
+Figure 7.3.1 Past Efforts to Improve Urban Transport and Emerging Issues ..................................... 7-31  
+Figure 7.3.2 Progress of Projects Proposed in PPUTMP and Future Direction of Urban  
+Transport Improvement .................................................................................................. 7-32 
+Figure 7.3.3 Issues for Achieving Goals of PPUTMP and Causal Relationship ................................ 7-32  
+Figure 7.3.4 Opinion on “No Entry Policy” for RHS Vehicles to Arterial Roads (RHS Drivers  
+and RHS Users) .............................................................................................................. 7-33 
+Figure 7.3.5 Opinion on Integration of City Bus and RHS (RHS Drivers) ........................................ 7-33  
+Figure 7.3.6 Important Items for Integration of  City Bus and RHS (RHS Drivers and RHS  
+Users) ............................................................................................................................. 7-34 
+Figure 7.3.7 Causal Relationship on On-street Parking Issues ........................................................... 7-34  
+Figure 8.2.1 SWOT Analysis .................................................................................................... ............ 8-3 
+Figure 8.2.2 Growth Rate of Urbanised Area from 2012 to 2020 ........................................................ 8-4  
+Figure 8.2.3 SWOT Analysis (Direction of Urban Development) ....................................................... 8-4  
+Figure 8.2.4 SWOT Analysis (Financial and Economic Trend) ........................................................... 8-5  
+Figure 8.2.5 SWOT Analysis (Technology, Envi ronment, Society and Culture Trend) ....................... 8-7 
+Figure 8.2.6 SWOT Analysis (Urban Transport Management System, Public Transport and  
+Traffic Management, Road Transport) ............................................................................. 8-9 
+Figure 8.2.7 Pricing Gate for ERP in Singapore ................................................................................ . 8-10 
+Figure 8.2.8 Illegal Pa rking Posting App. ........................................................................................... 8-10 
+Figure 8.3.1 Perspectives to Formulate the New C onceptual Strategy for Urban Transport based  
+on SWOT Analysis ......................................................................................................... 8-11 
+Figure 8.3.2 Draft New Conceptual Strategy for Urban Transport .................................................... 8-12  
+Figure 8.3.3 Draft Development Scenario to Achieve the Goals of PPUTMP ................................... 8-13  
+Figure 8.3.4 Transport Sector Improvement Programmes and Time Frame to Achieve the Goal  
+of PPUTMP .................................................................................................................... 8-14 
+Figure 8.3.5 A Shophouse Built in the City Centre during the French Colonial Era (Left) and a  
+Typical Cell-type House Development Built in the Suburbs (Right) ............................. 8-15 
+Figure 9.1.1 Integrated Urban Transport Management Platform .......................................................... 9-5  
+ 
+ 
+ 
+ 
+ 
+  
+
+[p14]
+Data Collection Survey on Urban Transport in Phnom Penh 
+Final Report 
+xii 
+Table 5.3.1 Comparison of House hold Income Distribution .............................................................. 5-7 
+Table 5.3.2 Comparison of Trip Generation by Trip Purpose ............................................................. 5-8  
+Table 5.3.3 Comparison of Trip Distribution ................................................................................... . 5-10 
+Table 5.3.4 Comparison of Trip  Generation by Mode ...................................................................... 5-10 
+Table 5.3.5 Trip Rates by Gender by  Trip Purpose (Trips/day) ........................................................ 5-12 
+Table 5.3.6 Summary of Traffic Count Survey (vehicle base) .......................................................... 5-14  
+Table 5.3.7 Average Passenger Occupancy .......................................................................................  5-16 
+Table 5.3.8 Summary of Screen  Line Survey Results ....................................................................... 5-19 
+Table 5.3.9 Average Passenger Occupancy in Screen Line Survey .................................................. 5-21  
+Table 5.3.10 Survey Locations for Passenger Interview Survey ......................................................... 5-22  
+Table 5.3.11 Summary of Roadside Traffic Count Results ................................................................. 5-29  
+Table 5.3.12 Average Travel Speed (Passenger Car) .......................................................................... 5- 32 
+Table 5.3.13 Definition of Legal a nd Illegal Parking (On-street) ....................................................... 5-35 
+Table 5.3.14 Target of Parking Condition Survey ...............................................................................  5-36 
+Table 5.3.15 Result Comparison of Truck In terview Survey between 2012 and 2022 ....................... 5-44 
+Table 5.3.16 Number of GPS Data Logs and IDs ............................................................................... 5-46  
+Table 5.3.17 Location Categories a nd Purpose Groupings by POI ..................................................... 5-47 
+Table 5.3.18 Share of trips by Purpose Estimated from GPS Data vs. PT Survey ............................. 5-48  
+Table 5.3.19 Number of GPS Data Logs and IDs ............................................................................... 5-48  
+Table 5.3.20 Number of GPS logs cleaned ....................................................................................... .. 5-48 
+Table 5.3.21 Share of Trips by Purpo se, Estimated from GPS Data ................................................... 5-49 
+Table 5.3.22 Basic aggregate results of trips estimated from GPS data by year ................................. 5-49  
+Table 6.1.1 Vehicle Classification ............................................................................................ ........... 6-2 
+Table 6.1.2 Capacity and Speed  by Road Classification ..................................................................... 6-7 
+Table 6.2.1 Future Road Network Scenario ...................................................................................... .. 6-8 
+Table 6.2.2 Future Public Transport Network Scenario ...................................................................... 6-8  
+Table 6.2.3 Future Public Transpor t Operation Headway Scenario .................................................... 6-8 
+Table 6.2.4 Estimation of TAZ Population....................................................................................... ... 6-9 
+Table 6.2.5 Forecasted Provincial Population by GPC in 2008 and CAGR ....................................... 6-9  
+Table 6.2.6 District Area Proportio n by TAZ in Kandal Province .................................................... 6-11 
+Table 6.2.7 Population Forecast of Surrounding Countries .............................................................. 6-11  
+Table 6.2.8 Estimation Method for Number of Annual Passengers at PPIA ..................................... 6-12 
+Table 6.2.9 Growth Rate of Nu mber of Annual Passengers .............................................................. 6-13 
+Table 6.2.10 Share of Truck Trip Generation ................................................................................... ... 6-14 
+Table 6.2.11 Parameters for Truck Registration Model ...................................................................... 6-15 
+Table 6.2.12 Average Truck Working Ratio and Average Trip Rate ................................................... 6-15 
+Table 6.2.13 Estimated Truck Trip and Adjustment with Control Total ............................................. 6-15 
+Table 6.2.14 Parameters fo r Truck Trip Distribution .......................................................................... 6-16 
+Table 6.2.15 Assumed Speed and Cost of Modes ............................................................................... 6- 17 
+Table 6.2.16 Commuting Trip Frequency Rate befo re Pandemic / Current Situation in PT/CS ......... 6-18 
+Table 6.2.17 Summary of Mob ile GPS Data Analysis ........................................................................ 6-19 
+
+[p18]
+Data Collection Survey on Urban Transport in Phnom Penh 
+Final Report 
+xvi 
+Abbreviation Full Name 
+LTAZ Large Traffic Analysis Zone 
+M/P Masterplan 
+MaaS Mobility as a Service 
+MAID Mobile Advertising ID 
+MAU Monthly Active Users 
+MC Motorcycle 
+MEF Ministry of Economy and Finance 
+MLIT  Ministry of Land, Infrastructure, Transport and Tourism  
+MLMUPC Ministry of Land Manageme nt, Urban Planning and Construction 
+MM Mobility Management 
+MOE Ministry of Environment 
+MOI Ministry of Interior 
+MPWT Ministry of Public Works and Transport 
+MVL MVLLABS Pte. Ltd. 
+NCSD National Council for Sustainable Development 
+NGO Non-Government Organization 
+NHB Non Home Based Trip 
+NIS National Institute of Statistics 
+NMT Non-motorized Trip 
+NOx Nitrogen Oxides 
+NR National Road 
+NRSC National Road Safety Committee 
+NSDP National Strategic Development Plan 
+OCG Oriental Consultants Global 
+OD Origin-Destination 
+OFC Optical Fiber Cable 
+P&R Park and Ride 
+PAS Sihanoukville Autonomous Port 
+PCS Parking Condition Survey 
+PCU Passenger Car Unit 
+PiBO Project for Improvement of Public Bus Operation in Phnom Penh 
+PIS Passenger Interview Survey 
+POI Point of Interest 
+PP Phnom Penh 
+PPAP Phnom Penh Autonomous Port 
+PPCA Phnom Penh Capital Administration 
+PPCC Phnom Penh Capital City 
+PPG Public and Publicly Guaranteed 
+PPIA Phnom Penh International Airport 
+
+[p22]
+Data Collection Survey on Urban Transport in Phnom Penh 
+Final Report 
+II 
+ 
+Source: JST created based on the population data of 
+Commune data base in 2014 and 2018 
+ 
+Source: IMF World Economic Outlook Database 
+Figure I  Population Growth Area Figure II  Fiscal Balance (1998-2021) 
+Chapter 3 Existing Condition of Urban Transport Sector in Phnom Penh 
+3.1 Existing Institution, Legal System and Financial Condition related to Urban Transport Sector 
+In general, MPWT is responsible for law and endorsement. Besides the function, the demarcation of roles 
+between PPCA and MPWT are intricate. Moreover, there is no agency who establish the comprehensive 
+transport policy and implement it. 
+Table I  Present Institutional Arrangement for Operation and Management of Urban Transport 
+Function 
+Responsible Agency 
+Instruments Public Transport Highway (Urban) Traffic Management (Parking) 
+Policy and 
+strategy 
+PPCA (bus), 
+MPWT (rail) 
+MPWT 
+(arterial), 
+PPCA  
+Unknown National Strategic Development Plan (5 year investment plan in all sector), PPUTMP 
+Law 
+endorsement MPWT MPWT MPWT, MLMUPC* Road Traffic Law(2017) Land Management Law (1997) 
+Regulator 
+MPWT 
+(rail/ bus), PPCA 
+(bus), DPWT (para) 
+ PPCA 
+(off-street) Sub-decree, Prakas, Certificate & Permit 
+Implementing 
+Agency 
+(Operator) 
+CBA (bus), 
+Private 
+(rail, para)  
+DPWT, 
+PPCA Private  
+Standard Unknown MPWT MLMUPC (off-street) Road Design Standard (2003) Urbanization of the Capital, Municipalities and Urban Areas (2015) 
+Public Finance PPCA, MPWT MPWT, PPCA   
+*MLMUPC: Ministry of Land Management, Urban Planning and Construction 
+*DPWT: Department of Public Works and Transport, Source: JST 
+-30
+-20
+-10
+0
+10
+20
+30
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020e
+2021e
+Government Expenditure (% of GDP)
+Government Revenue (% of GDP)
+General government net lending/borrowing (% of GDP)
+(%)
+
+[p23]
+Data Collection Survey on Urban Transport in Phnom Penh 
+Final Report 
+III 
+RHS drivers are categorized as passenger transport service provider as well as Khmer Tuk-tuk drivers based 
+on the road traffic law. Most of the drivers are independent drivers. 
+ 
+Source: JST 
+Figure III  Relationship of Driver, Users, App Providers and Regulators on RHS 
+3.2 Current Status of Infrastructure and Facilities related to the Urban Transport Sector 
+CBA owns 181 buses. The end/start points of each bus route have bus terminals/parking, for a total of 14 
+bus terminals. Each bus route operates at around 20 kilometres and takes about 1 to 2 hours travel time to 
+complete the one-way service. As of December 2021,  the daily ridership of these routes reached 2,700 
+passengers, which still has a large gap with the ride rship before the COVID-19 pandemic. Several roads 
+were improved such as the widening of Veng Sreng Blvd., Hanoi Blvd., Russian Blve., RR-II South Section, 
+NR-1, NR-3 and NR-5, and the new construction of Hun Sen Blvd. Prior to the introduction of traffic control 
+system by Japan’s grant aid, the traffic signals at 69 intersections provided by different donors from seven 
+countries were operated independently. After the introduction of the traffic control system in December 2018, 
+traffic signals at 115 intersections were introduced by Japan. Of this number, 109 intersections connected to 
+the traffic control centre, located in the PPCA compound excluding 6 intersections along NR-1. 
+Chapter 4 Upstream Policy and Plans related to Urban Transport 
+Following upstream policy and plans related to urban transport in Phnom Penh were reviewed. 
+Table II  Upstream Policy and Plans 
+Name Contents 
+National Strategic Development 
+Plan (NSDP) 
+NSDP is a road map for the Royal Government of Cambodia (RGC) to move towards 
+socio-economic development and poverty reduction, and it shall update every five years.  
+Land Use Master Plan 2035 in 
+Phnom Penh Capital City (PPMP) 
+PPMP was prepared in 2015 by Phnom Pe nh Capital Administration (PPCA), PPCA 
+estimated the future population at 2,544 ,659 in 2035 including Kandal province as a 
+“Greater City”. 
+Drivers (Independent)
+Users (Riders)
+RHS Providers
+Internet
+• Booking
+• Payment
+Regulator (Government)
+• Transport Operator 
+Licensing
+• Vehicle Registration
+• Traffic Safety Control
+• Business Registration
+• Safety, IT, Privacy 
+Instruction
+• User Registration
+PassApp,
+Grab, etc.
+MPWT (Regulation)
+DPWT (Licensing)
+PPMP(Road Safely)
+CCDA
+CCDA: Cambodia for Confederation Development Association 
+IDEA: Independent Democracy of Informal Economy Association
+IDEA
+Transport Business Associations
+• Prakas
+(Requesting Driver 
+Information and 
+Driver Training)
+
+[p25]
+Data Collection Survey on Urban Transport in Phnom Penh 
+Final Report 
+V 
+ Survey contents Objectives and contents Quantity 
+4 Passenger Survey by Mode 
+For each mode (passenger car, RHS, public / commuter bus, motorcycles), 
+interviews will be conducted at locations where users of each mode gather in 
+order to understand the characteristics of users, their awareness of traffic 
+issues, and the possibility of switching to a new mode. 
+Approximately 2,000 
+samples in total 
+5 
+Cross-section 
+traffic volume 
+survey 
+A count survey will be conducted to understand the traffic volume in the city 
+and to verify the reproducibility of the traffic model. 17 points 
+6 
+Traffic count 
+survey at 
+intersections 
+Traffic count surveys will be conducted at major intersections to study 
+intersection improvements and to verify the effectiveness of existing signals 
+and flyovers.  
+13 points 
+7 Travel speed survey Conduct speed survey using GPS loggers to observe travel speed by mode and corridor. Also, the survey result will be used to identify the operation area of RHS.  
+13 passenger car routes 
+50 RHS two-wheel 
+vehicles 
+50 RHS three-wheeled 
+vehicles 
+8 Parking survey  Conduct interviews and count surveys at facilities and on streets to observe parking capacity, usage, and impact on roadways and sidewalks. Facilities: 17 locations & On-street 
+9 RHS status survey An interview survey will be conducted with drivers to understand the actual status of RHS services, including vehicle kilometres travelled per vehicle (actual and empty), fare revenue, and number of trips. 400 samples 
+10 Freight vehicle traffic survey Conduct interviews with companies and drivers, and count surveys at Special Economic Zones (SEZ) and logistics hubs to estimate the percentage of cargo items and intra-regional cargo OD at major cargo hubs. 15 locations 
+Source: JST 
+5.2 Consideration for Conducting Transport Surveys under the COVID-19 Pandemic  
+In order to judge the appropriate time to start the transport surveys, traffic volume has been monitored using 
+CCTV camera data. The results are co mpared with the traffic volume survey results in 2019 that was 
+conducted by ADB survey team. The recovery index reached 90% in January 2022. Considering the index, 
+transport surveys were initiated consulting with PPCA and Khans.  
+5.3 Result of Transport Surveys 
+ The share of car ownership households has increased from 18% in 2012 to 38% in 2022.  
+ In 2012, the number of trips generated from Phnom Penh metropolitan area was about 4.3 million 
+trips. It increased to about 5.6 million trips in 2022.  
+ The share of trips between suburban areas increased remarkably to 58% in 2022 from 50% in 2012.  
+ As the ownership rate of passenger cars and motorcycles increased, the ratio of NMT (Non-motarized 
+Trip: walk and bicycle) decreased, and the ratio of automobiles, motorcycles and tuk-tuk increased 
+to 14.1%, 58.1% and 15.6%, respectively.  
+ Buses accounted for only 1.4% because the number of operating routes was limited to four due to 
+the COVID-19’s pandemic. 
+ The major reasons not to use city bus are “Comfort and ease of own vehicle” both in Car users (39%) 
+and MC users (32%), followed by “Bus stop far from origin/destination” and “Slow speed of bus”. 
+The major reasons for RHS users are “Bus stop far from origin/destination”, 19% of RHS users. 
+
+[p26]
+Data Collection Survey on Urban Transport in Phnom Penh 
+Final Report 
+VI 
+ 
+Source: JST 
+Figure IV  Major Reasons Not to Use City Bus by User’s Mode 
+ With regard to the illegal parking, 71% of respondents disagree or won’t agree to “current situation 
+is acceptable for convenience” and 90% of respondents agree to “illegal parking should be strictly 
+controlled”. These results indicate that they want more control of illegal parking. 
+ Comparing the parking capacity including off-street and on-street parking in the core area of CBD 
+and the parking demand, it was confirmed that the demand exceeds the capacity of parking facilities. 
+Chapter 6 Transport Demand Forecast 
+With the result of series of transport surveys, disa ggregated four step model was developed to estimate 
+future transport demand. Two scenarios “Do thing” case and “With” project case were set for future road 
+and public transport network. The share of car increased to 14.9% in 2022 from 9.9% in 2012 and the share 
+in 2035 will further increase to 21.7% in “Do Nothing” scenario and 20.2% in “With” scenario. Under the 
+current vehicle ownership and modal choice trends, if population grow th and economic growth continue, 
+trips by car in 2035 is projected to be 1.489 milli on in “Do Nothing” scenario and 1.387 million even in 
+“With” scenario. Trips by motorbike and tuk-tuk is pr ojected to increase slightly, however, the shares of 
+these modes will decrease. The share of public transport is 1.3% in “Do Nothing” scenario where no bus 
+priority lane and urban rail are introduced and 5.4% in “With” scenario. When it is limited to InterTAZ trips 
+only, the modal share of public transport is projected to be 8.6%. 
+
+
+[p28]
+Data Collection Survey on Urban Transport in Phnom Penh 
+Final Report 
+VIII 
+Chapter 7 Identifying Issues on Urban Transport Sector in Phnom Penh 
+7.1 Progress of PPUTMP Projects/Programme  
+The number of complete project for public transport sector is limited since most of the railway projects 
+were suspended after the F/S. A major reason of the suspension is budgetary constraint. 
+7.2 Issues in Urban Transport Sector and Causal Relationship Analysis 
+7.2.1  Fragmented Efforts to Improve Urban Transport Sectors 
+To improve the urban transport in Phnom Penh, se veral efforts such as urban road development and 
+widening, traffic signal instalment, City Bus operation, etc. have been made based on PPUTMP. However, 
+those efforts are fragmented and not effective to ch ange the behaviour of citizens, namely shifting from 
+private vehicle users to public transport users. In order to bring a behaviour change of Phnom Penh citizens, 
+it is necessary to stand from the user's point of view, effectively connect fragmented efforts, and secure a 
+series of comfortable means of transport and space from origin to destination. 
+ 
+Source: JST 
+Figure VII  Past Efforts to Improve Urban Transport and Emerging Issues 
+7.2.2 Causal Relationship Analysis on Issues to Promote Public Transport 
+Regarding the City Bus, which plays a major role in  public transport in Phnom Penh, the major reasons 
+why car, motorcycle and RHS users do not use the City Bus are “Car is comfortable”, “Bus stop far from 
+origin/destination”, “Slow speed of bus” and “Bus routes are limited”. For improving access to a bus stop, 
+shortening “psychological distance” by improving the environment of pedestrian walkways will be 
+effective as well as shortening “physical distance” by changing the bus stops intervals and expanding the 
+bus network. Furthermore, it is also possible to maximize the coverage of a bus stop by assigning a feeder 
+role for City Bus to RHS and building transfer points between RHS and City Bus. 
+Occupied / 
+damaged 
+sidewalk
+No enough 
+parking 
+space & Info.
+No punctual 
+/ low speed
+No discipline 
+/ illegal 
+parking
+Occupied / 
+damaged 
+sidewalk
+No info. on 
+bus 
+stop/route
+Far from 
+home / hot 
+to wait
+Congestion
+Expanding city areaNew city High dense
+Bus operation 
+& management 
+improvement
+Road 
+construction 
+/ widening / 
+signal install
+Parking 
+construction
+Fragmented Efforts
+Increasing car ownership rate 
+and mobile phone user / no 
+custom of public transport Limited space
+Need to allocate 
+l
+imited budget
+
+[p29]
+Data Collection Survey on Urban Transport in Phnom Penh 
+Final Report 
+IX 
+ 
+Note: PI (Public Involvement) 
+Source: JST 
+Figure VIII  Issues for Achieving Goals of PPUTMP and Causal Relationship 
+7.2.3 Causal Relationship Analysis on On-street Parking Issues 
+As the reason for not parking in the parking lot, 36 % of the respondents answered the difficulty to find 
+available parking space, followed by 19% of the respondents answered th e issue of parking fees, 17% of 
+the respondents who assume there are no risk of crack  down and 12 % of respondents who said that there 
+was no parking lot near the destination. In addition to the issue of parking capacity, it is also necessary to 
+provide parking information. 
+ 
+Source: JST 
+Figure IX  Causal Relationship on On-street Parking Issues 
+
+
+[p30]
+Data Collection Survey on Urban Transport in Phnom Penh 
+Final Report 
+X 
+Chapter 8 Development Scenario 
+The draft new conceptual strategy for urban transport based on the analysis of the internal and external 
+factors through SWOT analysis and the perspective of strategic planning based on the pillars of "integrated 
+strategy," "proactive strategy," and "reactive strategies" is shown in the figure below. 
+ 
+Source: JST 
+Figure X  Draft New Conceptual Strategy for Urban Transport 
+a) Draft Development Scenario to Achieve the Goals of PPUTMP 
+Currently, major measures against the rapidly incr easing traffic demand are road widening and bypass 
+road developments that is rela tively inexpensive and fast-acting. But it may promote further car 
+dependency and parking space in future. It will damage the historic cityscape in Phnom Penh. In terms 
+of public transport, Cambodia has a shorter history. To establish a public transport culture, it is necessary 
+to shift from the current car-oriented development to create the public transport culture with punctual 
+bus network and walkable sidewalk . It will continue to the development of mass transit in major 
+corridors in the future. 
+b) Transport Sector Improvement Programmes and Time Frame to Achieve the Goal of PPUTMP 
+The following figure shows the transport sector improvement programmes and time frame to achieve 
+the goal of PPUTMP. 
+ 
+PPUTMP’s Goal
+To maintain the
+people-/environment-
+friendly urban 
+conditions and vitalize 
+the urban activities in 
+Phnom Penh
+City. 
+Strategy 
+１
+Changing from the fragmented interventions to the integrated 
+and inclusive mobility and management [Strength]×[Weakness]
+～A new era with Public Transport culture～
+Strategy
+２
+Support for cityscape reconstruction for 2 million pop/200 year 
+history city and guidance for the development of new urban 
+areas as experiments [Strength]×[Opportunity]
+～A fun and walkable city～
+Strategy
+３
+Development of traffic corridors and hubs and redundant mobility 
+network to minimize risks of increasing accidents and urban 
+disasters [Strength]×[Threat]
+～A safe and livable city ～
+Challenges to achieve the goal of PPUTMP
+Reactions against the New Trends
+Actions to  
+implement 
+PPUTMP
+New 
+aspect to 
+be 
+addressed 
+when 
+PPUTMP 
+will be 
+revised
+• Steady Private Investment
+• Well-designed streetscape
+• Urban flood
+• Urban sprawl and car-
+oriented development
+Absence of 
+inter-sectorial 
+coordination
+
+[p31]
+Data Collection Survey on Urban Transport in Phnom Penh 
+Final Report 
+XI 
+ 
+Source: JST 
+Figure XI  Draft Development Scenario to Achieve the Goals of PPUTMP 
+ 
+ 
+Source: JST 
+Figure XII  Transport Sector Improvement Programmes and Time Frame 
+Chapter 9 Implementation Plan and Recommendation 
+JST recommends: 
+ To implement the proposed priority projects (bus  priority lanes, sidewalk improvement, parking 
+management) timely and in an integrated manner; 
+ To do so, to enhance coordination mechanism among stakeholders through establishment of urban 
+transport platform in PPCA; 
+
+
+[p33]
+Data Collection Survey on Urban Transport in Phnom Penh 
+Final Report 
+ 
+1-1 
+Chapter 1 Background and Objectives 
+ 
+1.1 Background 
+The Japan International Cooperation Agency or JICA has cooperated to conduct the Project for 
+Comprehensive Urban Transport Plan in Phnom Penh Capital City (hereinafter referred to as "PPUTMP") 
+with the target year of 2035 and consistently supp orted to improve the traffic condition in Phnom Penh. 
+More specifically, many projects include the Project for Improvement of Transportation Capacity of Public 
+Bus in Phnom Penh (Grant Aid), the Project for Improvement of Public Bus Operation in Phnom Penh 
+(PiBO), the Project for Development of Traffic Mana gement System in Phnom Penh (Grant Aid) and the 
+Project for Capacity Development on Comprehensive Tr affic Control Centre in Phnom Penh Capital City 
+(Technical Cooperation Project). In addition, other donors such as the Asian Development Bank (ADB) are 
+also providing support such as technical cooperation project, Supporting Sustainable Integrated Urban 
+Public Transport Development (SSIUPTD), for buildi ng a transit-oriented network system, which is the 
+basic policy of PPUTMP. 
+However, the number of new vehicles registered in Phnom Penh (including four-wheeled and two-wheeled 
+vehicles), which was 300,000 in 2013, doubled to 580,000 in 2018; the car-oriented system remains 
+unchanged and traffic congestion is getting worse. Furt hermore, there are many issues that have not yet 
+been improved since the formulation of PPUTMP, such as illegal parking on the street and lack of driving 
+manners. In recent years, as Information and Comm unication Technology (ICT) and the mobile phone 
+penetration rate increase, the Ride-Hailing Service (hereinafter referred to as "RHS") such as “PassApp”, a 
+RHS by a Cambodian national company, has been e xpanding. RHS in Phnom Penh is different from the 
+RHS by automobile like other countries. It is mainly composed of three-wheeled taxis and due to the rapid 
+increase of such vehicles, problems arise as it creates  new competition with public transport and further 
+decreases the average speed of ma in roads. A preparatory survey  for Phnom Penh urban railway 
+development project was conducted from 2017 to 2020 toward the introduction of a transit-oriented 
+transport system, which is the key project of PPUTM P, but the project was postponed for the time being 
+due to financial constraints of Cambodia and other reasons. 
+Based on the above background, Phnom Penh Capital Admi nistration (hereinafter referred to as "PPCA") 
+started the “2014 Phnom Penh Urban Transport Master Plan Revision Work (Data Collection Study)” 
+(hereinafter referred to as "PPCA Survey"). The PPCA Survey started in February 2020 and completed in 
+December 2021. The output will be used for the revision of PPUTMP. However, the PPCA Survey does not 
+include quantitative analysis such as transport surveys and demand forecasts. Therefore, after conducting a 
+quantitative analysis in the “Data Collection Survey  on Urban Transport in Phnom Penh” (hereinafter 
+referred to as "the Survey") and sharing the direction to solve the identified issues on urban transport in 
+Phnom Penh with PPCA, the direction of future cooperation from JICA in the urban transport sector in 
+Phnom Penh will be discussed. Furthermore, the quantitativ e research and analysis in this Survey will be 
+the basis of the quantitative analysis for the future revision of PPUTMP by PPCA. 
+
+[p61]
+Data Collection Survey on Urban Transport in Phnom Penh 
+Final Report 
+ 
+3-1 
+Chapter 3 Existing Condition of Urban Transport Sector in Phnom Penh 
+ 
+3.1 Existing Institution, Legal System and Financial Condition related to Urban Transport Sector 
+Following table shows the present institutional arrang ement by functions by sub-sector of urban transport 
+in Phnom Penh. 
+In general, Ministry of Public Works and Transport (MPWT) is responsible for law and endorsement. 
+Besides the function, the demarcation of roles between PPCA and MPWT are intricate. Moreover, there are 
+no agency who establish the comprehensive transport policy and implement it. 
+Table 3.1.1  Present Institutional Arrangement for Operation and Management of Urban 
+Transport 
+Function 
+Responsible Agency 
+Instruments Public 
+Transport 
+Highway 
+(Urban) 
+Traffic 
+Management* 
+(Parking) 
+Policy and 
+strategy 
+PPCA (bus), 
+MPWT (rail) 
+MPWT 
+(arterial), 
+PPCA  
+Unknown 
+National Strategic Development Plan (5 year 
+investment plan in all sector), PPUTMP 
+(unapproved) 
+Law 
+endorsement MPWT MPWT MPWT, MLMUPC* Road Traffic Law(2017) Land Management Law (1997) 
+Regulator 
+MPWT 
+(rail/ bus), PPCA 
+(bus), DPWT 
+(para) 
+ PPCA 
+(off-street) Sub-decree, Prakas1, Certificate & Permit 
+Implementing 
+Agency 
+(Operator) 
+CBA (bus), 
+Private 
+(rail, para)  
+DPWT, PPCA Private  
+Standard Unknown MPWT MLMUPC (off-street) Road Design Standard (2003) Urbanization of the Capital, Municipalities and Urban Areas (2015) 
+Public Finance PPCA, MPWT MPWT, PPCA   
+Note: Traffic management scheme varies, including traffic demand ma nagement, and takes an exam ple of parking as typical 
+traffic management issue in Phnom Penh. 
+*MLMUPC: Ministry of Land Management, Urban Planning and Construction 
+*DPWT: Department of Public Works and Transport 
+Source: JST 
+3.1.1 Public Transport 
+(1) Overview of Public Transport in Phnom Penh 
+The definition of “public transport” changes depending on the background of the times and the country. In 
+Japan, railroads, buses, taxis, etc., have been defined as “public transport”. 
+                                                      
+1 Prakas is equivalent to “r egulation” in Khmer language. 
+
+[p70]
+Data Collection Survey on Urban Transport in Phnom Penh 
+Final Report 
+ 
+3-10 
+Table 3.1.6  Component of Road Traffic Law 
+Chapter Title (Article) Contents 
+1 General Provisions (Article 1- 4) Describes the objective scope  and terminology of the law 
+2 Road Signs (Article 5-6) Describes the traffic signs and priority signs 
+3 Drivers (Article 7-26) 
+Describes the drivers driving condition, use of roads, turning left and 
+right, and crossing and parking 
+4 The use of vehicle lights and horns (Article 27-30) Describes the use of lights and horns 
+5 Pedestrians and animal riders/herders (Article 31-33) Describes pedestrian, animal riders crossing/walking 
+6 Traffic Accidents (Article 34-38) Describes the competency of the traffic police, road accidents, and hit and run cases 
+7 Vehicle and transport management (Article 39-58) Describes driving licence issues, de merit points, vehi cle inspections, over loading and fines 
+8 National Committee of Road Traffic Safety (Article 59) Describes establishment of National Committee of Road Traffic corresponding budget allocation 
+9 Law enforcement agency of the Road Traffic Law (Article 60-70) Describes the right of detention, competency of the traffic police, small fines and right of complaint 
+10 The penalty (Article 71-87) 
+Describes the crime considered for small fines, the responsibility for 
+civil and criminal responses by drivers, and other fines 
+11 Inter-provisions (Articles 88-91) Descri bes the law validity and implementation 
+12 Final provisions (Articles 92) Describes the invalid of the road traffic law in 2007 
+Source: Summarised by JST from the road traffic law 
+2) Road Law 
+The Road Law was adopted by the National Assembly on 3rd of April 2014, approved by the Senate on 
+the 11th of April 2014 and promulgated by PREAH REACH KRAM NS/RKM/0514/008 dated the 4 th 
+of May 2014. The Road Law is composed of 14 Chapters and 81 articles. 
+The law describes the competent authorities of road  development and maintenance, types of road, 
+contents should be included in the technical standa rd of road development a nd maintenance, financial 
+resources of road development and maintenance and so on. 
+Table 3.1.7  Component of Road Law 
+Chapter Title (Article) Contents 
+1 General Provisions (Article 1 – 4) Describes the objectives and scope of the law. 
+2 Competent Authorities of Road Management (Article 5 – 6) 
+All roads will be managed by 3 ministries/agencies: 
+- Ministry of Public Works and Transport: in charge of Expressway, 
+National Roads and Provincial Roads; 
+- Ministry of Rural Development in  charge of Rural Roads and other 
+roads as assigned by the Royal Government and  
+- Sub-national Administration is the competent authority, whose 
+obligation include planning, design, construction, rehabilitation and 
+road maintenance within the capital, cities and provincial towns. 
+3 
+Road Types, Name and Classification 
+(Article 7 – 9) Describes the road types and naming.  
+4 Road Development and Maintenance (Article 10 – 19) Describes the role and regulation of road construction and maintenance including private sector. 
+5 
+Technique Entity and Road 
+Infrastructure Technical Regulation 
+(Article 20 – 23) 
+Describes the responsible organization and components of technical 
+regulations for road infrastructures. 
+
+[p71]
+Data Collection Survey on Urban Transport in Phnom Penh 
+Final Report 
+ 
+3-11 
+Chapter Title (Article) Contents 
+6 Road use (Article 24 – 34) Describes the loading limit by types of vehicle and requirement to use roads. 
+7 Protection of Road Infrastructure (Article 35 – 38) Describes the responsibility of competent authorities and users to protect road infrastructures. 
+8 Road Certification (Article 39 – 40) 
+Describes the necessity of certification for operation on the roads 
+infrastructure, road maintenance, and opening the laboratory for the 
+road sector. 
+9 Fund for Road Use Maintenance and Development (Article 41 – 42) Describes the financial source of road maintenance and development. 
+10 
+Inspection of Road Infrastructure  
+(Article 43 – 47) 
+Describes the responsibility and rights of inspectors for road 
+infrastructure. 
+11 Penalties (Article 48 – 78) Describes the penalties related to the road construction and maintenance work and the violation of road protections. 
+12 Final Provisions (Article 79 – 81) Describes the provisions of the law. 
+Source: Summarised by JST from the road law 
+3.1.3 Traffic Management 
+(1) Overview of Traffic Management in Phnom Penh 
+Traffic management is the materialization of a safe and efficient urban transport system by combining 
+several methods such as devising ways to use roads and traffic operation methods, rather than by developing 
+and expanding large-scale transport facilities such as new road construction and road widening. Measures 
+of traffic management are roughly divided into two:  (1) Facilitation of road traffic and traffic safety 
+measures, and (2) Optimisation of vehicle traffic. The first one includes traffic regulation, restructuring the 
+road facility, traffic flow management and control, driver education, and traffic enforcement. The second 
+one includes control of car usage, parking control, improvement of public transport services, and traffic 
+demand management. These are summarised in Figure 3.1.7. 
+ 
+Source: JST 
+Figure 3.1.7  Traffic Management Measures by Type in Phnom Penh 
+Smooth Road 
+Traffic and Traffic 
+Safety Measures
+Traffic Flow Control
+Road Structure Reorganization
+Traffic Regulation
+Example
+Signal Control System ( Phase II)
+Intersection Improvement
+Driver’s Education and
+Enforcement
+Optimization of 
+Automobile
+Traffic
+Traffic Demand 
+Management
+Parking Control
+Improving Public 
+Transport Services
+No-Parking Enforcement
+Telework, Staggered Commuting,
+Land Use (TOD, etc.)
+Optimizing the Amount and Arrangement of 
+Parking Lots, Parking Fee Control
+One-way Traffic Regulation
+Improvement of Walking Environment, 
+Issuance of Low-priced Commuter Pass
+Control of Car Usage
+Car Commuting Restrictions for 
+Government Offices and Companies in 
+CBD
+
+[p72]
+Data Collection Survey on Urban Transport in Phnom Penh 
+Final Report 
+ 
+3-12 
+(2) Institutional Framework 
+1) Overview 
+The status of traffic management measures in Phnom Penh is summarised in Table 3.1.8. 
+Table 3.1.8  Status of Traffic Management Measures in Phnom Penh 
+No. Transport Management Managing Agency Legal Basis 
+1) Intersection (Signalized/Non-si gnalized) PPCA, DPWT, TCC There is no specific regulation. 
+2) One-way System DPWT Road Traffic Law 
+3) Driver’s Education and Traffic Enforcement Bureau of Road Traffic Police of Phnom Penh Capital Road Traffic Law 
+4) Parking DPWT, Khan  
+5) Sidewalk Management / Maintenance DPWT, Khan  
+6) Traffic Demand Management N/A  
+Source: JST 
+2) Traffic Control Centre (TCC) 
+The Traffic Control Centre is under the DPWT and responsible for traffic control and monitoring of the 
+CBD area of Phnom Penh. There are 13 experts consisting of 7 exclusive experts, 3 maintenance experts 
+(concurrent post with DPWT) and 3 IT experts (c oncurrent post with PPCA) (See the Appendix 3 for 
+the organisation structure). 
+3) Phnom Penh Police Commissariat (PPPC) and Bureau of Road Traffic Police (BRTP) 
+PPPC is under the Ministry of Interior (MOI). And the BRTP is one of 33 bureaus under the PPPC. 
+BRTP has five sections and number of traffic police is approximately 500 officers and 300 contract staff. 
+BRTP is responsible for traffic accident investigation, arbitration after accidents and enforce over traffic 
+offenders based on the Road Traffic Law. The office also has a program that delivers road traffic safety 
+education to schools and private companies. 
+The MOI is responsible for nominating Phnom Penh’s traffic police officers. The daily activities such 
+as traffic control and traffic safety education on the main roads in Phnom Penh are under MOI and 
+PPCA’s Governor. The office of BRTP is located in the compound of PPPC (St.598). 
+The staff in PPPC belong to MOI and their salary is  provided by MOI. The budget for traffic safety 
+educations is also allocated with MOI budget, but  some cases are allocated from with PPCA budget. 
+And the support from the donors such as JICA is also directly accepted. 
+The organization of BRTP is shown in Table 3.1.9. 
+Table 3.1.9  Organisation of BRTP 
+ Sections 
+1 Traffic Accident Management Section Subsection 1 Subsection 2 
+2 Traffic Investigation Section Subsection 1 Subsection 2 
+3 Traffic Administration Section  
+
+[p74]
+Data Collection Survey on Urban Transport in Phnom Penh 
+Final Report 
+ 
+3-14 
+ 
+Source: Standard on: “Heavy Truck Banned in Phnom Penh” DPWT 
+Figure 3.1.8  Loaded Truck Routes during Daytime 
+3.2 Current Status of Infrastructure and Facilities related to the Urban Transport Sector 
+3.2.1 Public Transport  
+(1) City Bus  
+1) Number of Bus Route/Terminal and Bus Fleet 
+The bus routes operated by CBA started at 3 lin es in 2015 with 54 second-hand Korean buses. Since 
+then, the bus route has been steadily expanded to 5 routes in September 2017, 8 routes in November 
+2017, and 13 routes in October 2018. In September 2019, CBA decided to suspend the use of these 
+routes, due to the high operation and maintenance cost of these Korean buses; CBA owns 181 buses as 
+of April 2021. The end/start points of each bus route have bus terminals/parking, for a total of 14 bus 
+terminals. 
+On 2nd November 2021, the operation resumed on 4 routes (5  lines) (Line 1A, Line 2, Line 3 and Line 
+4A/4B). 
+
+
+[p79]
+Data Collection Survey on Urban Transport in Phnom Penh 
+Final Report 
+ 
+3-19 
+ 
+Source: JICA PiBO 
+Figure 3.2.6  Number of Daily Passengers since 2 nd November 2021 
+4) Bus Facilities: Bus Depot, Bus Terminals and Bus Stops 
+The CBA developed the 4 hectare bus depot equipped with an administration office, workshop, and 
+parking space and operates this single depot since Ja nuary 2019. The bus depot is located 15 kilometre 
+north along the National Road (NR) No. 5 across the Prek Pnov Bridge. The CBA also operates 14 bus 
+terminals at the starting/ending points of each bus route and maintains 865 bus stops, which include 270 
+bus shelters; the rest are bus stands.  
+
+
+[p80]
+Data Collection Survey on Urban Transport in Phnom Penh 
+Final Report 
+ 
+3-20 
+ 
+Source: City Bus Authority 
+Figure 3.2.7  Layout Plan of Bus Depot 
+ 
+Source: City Bus Authority 
+Figure 3.2.8  Parking at Bus Depot 
+
+
+[p83]
+Data Collection Survey on Urban Transport in Phnom Penh 
+Final Report 
+ 
+3-23 
+In total, there are 20 of inter-city bus terminals are observed in Phnom Penh. The inter-city bus terminals 
+are categorized into two different types i.e., the terminals with parking space and roadside pickup. Among 
+them, only 7 terminals are having proper space for bus to park while other 13 terminal are the pickup point 
+or boarding location only. The inter-city bus’s routes are depart from Phnom Penh to the provinces such as 
+Siem Reap around 1 – 29 different departure time per day by operator. 
+Table 3.2.2  Summary of Inter City Bus Destination and Frequency 
+Type Operator Frequency (Trip/day)  Type Operator Frequency (Trip/day) 
+To Siem Reap  To Battambang 
+With 
+parking 
+space 
+Cambodia Post VIP Van 3  
+With parking space 
+Mekong Express 3 
+Giant ibis Transport 3  Phnom Penh Sorya Transport 5 
+Larryta Express 29  Rith Mony Transport Co., Ltd. 5 
+Mekong Express 5  Roadside pickup Capitol Tours and Transport 12 Mey Hong Transport 4  Virak Buntham 10 
+Phnom Penh Sorya Transport 7  To Soung/Memot, Kampong Cham 
+Rith Mony Transport Co., Ltd. 5  With parking space Phnom Penh Sorya Transport 5 
+Roadside 
+pickup 
+Cambolink21 Express 6  Roadside pickup Capitol Tours and Transport 2 Capitol Tours and Transport 8  Virak Buntham 5 
+E Booking Express 7  To Kratie     
+Seila Angkor Khmer 17  With parking space Phnom Penh Sorya Transport 2 
+Virak Buntham 13  Roadside pickup Virak Buntham 1 
+Mbus  2  To Stung Treng 
+To Sihanoukville  With parking space Phnom Penh Sorya Transport 1 
+With 
+parking 
+space 
+Cambodia Post VIP Van 1  Roadside pickup Virak Buntham 2 
+Giant ibis Transport 1  To Banlung, Ratanakiri 
+Larryta Express 11  
+Roadside pickup 
+Heng Sokkhoeun Express 1 
+Mekong Express 7  Ratanak Sambath Express 1 
+Phnom Penh Sorya Transport 11  Virak Buntham 3 
+Rith Mony Transport Co., Ltd. 2  To Mondulkiri 
+Roadside 
+pickup 
+Capitol Tours and Transport 6  
+Roadside pickup 
+Ratanak Sambath Express 3 
+Virak Buntham 11  Rithya Mondulkiri Express 2 
+Mbus  2  Virak Buntham 5 
+To Kampot - Kep  To Sisophon (Banteay Meanchey) 
+With 
+parking 
+space 
+Cambodia Post VIP Van 1  With parking space Phnom Penh Sorya Transport 5 
+Giant ibis Transport 2  Roadside pickup Capitol Tours and Transport 5 Phnom Penh Sorya Transport 5  KSO Transport 12 
+Roadside 
+pickup 
+Capitol Tours and Transport 2  To Poipet (Thai Border) 
+Ekareach Express 3  With parking space Cambodia Post VIP Van 1 Virak Buntham 3  Phnom Penh Sorya Transport 5 
+Kim Seng Express 9  
+Roadside pickup 
+Cambotra Express 5 
+To Koh Kong  Capitol Tours and Transport 5 
+Roadside 
+pickup 
+Vibol Express 2  KSO Transport 7 
+Virak Buntham 2  Virak Buntham 6 
+Source: JST summarized from following sources. 
+https://12go.asia/en, https://bookmebus.com/en, 
+https://www.canbypublications.com/cambodia/buses.htm, https://www.camboticket.com, 
+https://www.giantibis.com/, https://vireakbuntham.com/ 
+ 
+(11) Electric Vehicle (EV) 
+Although some auto manufacturers sell electric vehi cles (EV) in Cambodia, EVs are still not common in 
+Phnom Penh mainly due to their costs of purchase. A Cambodian company Heng Development launched 
+an electric vehicle named “Angkor” in 2013 but their business short-circuited before the mass production.8  
+                                                      
+8 Source:  https://www.khmertimeskh. com/50909807/electric-vehicle-manufactures-poised-to-win-over-kingdoms-highly-
+petrol-dominated-fleet/ 
+
+[p89]
+Data Collection Survey on Urban Transport in Phnom Penh 
+Final Report 
+ 
+3-29 
+3.2.3 Traffic Management 
+(1) Intersection (Signalized/Non-signalized)  
+Prior to the introduction of traffic control system by Japan’s grant aid, the traffic signals at 69 intersections 
+provided by different donors from seven countries were operated independently. After the introduction of the 
+traffic control system in December 2018, traffic signals at 115 intersections were introduced by Japan. Of this 
+number, 109 intersections connected to the traffic control centre, located in the PPCA compound excluding 6 
+intersections along NR-1. It is operated on flexible signal parameter settings. 
+   
+ Signalized Intersections in 2014 Signalized Intersections in 2018 
+Source: JST 
+Figure 3.2.17  Location of Signalized Intersections in 2014 and 2018 
+(2) One-way System 
+During the public experiment in the PPUTMP, for the purposes 
+of improving the pedestrian environment, increasing road traffic 
+capacity and implementing illegal parking countermeasures, 
+one-way road pairs had been added. There is an extension of the 
+existing one-way road pair (St.130 and St.136) and two new road 
+sections (St.154 and St.178) have been converted to a one-way 
+pair. Consequently, total length of one-way roads in Phnom Penh 
+became 8.4 km. 
+(3) Driver’s Education and Traffic Enforcement 
+There are drivers who do not follow the traffic signals, traffic 
+signs and road markings prepared by the Project for 
+Development of Traffic Management System in Phnom Penh 
+(Grant Aid). Therefore, it is necessary that the Phnom Penh 
+Municipality Traffic Police officers enforce the road traffic law. 
+However, their number and skill are insufficient, and it is hard to 
+say that the traffic enforcement is sufficiently carried out.  The enforcement is carried out when there is 
+financial or technical assistance by donors. In additi on, DPWT also has a road safety related department, 
+ 
+Source: JST 
+Figure 3.2.18  One-way Roads 
+: Existing signals were replaced with Japanese ones 
+: Signals were newly introduced 
+
+[p90]
+Data Collection Survey on Urban Transport in Phnom Penh 
+Final Report 
+ 
+3-30 
+but it is also hard to say that the road safety activ ities such as road safety campaigns are sufficient due to 
+budgetary constraints. Due to the budgetary constraints of the related department of DPWT and the Phnom 
+Penh Municipality Traffic Police, it is difficult to properly plan and execute the driver’s education and the 
+traffic enforcement. 
+These enforcement, planning and implementation agencies are 
+struggling with their finance. 
+(4) Parking 
+One of the most serious urban transport issues in Phnom Penh 
+is the illegal parking on the carriageways and sidewalks. 
+Several underground parking f acilities have been completed 
+such as those in front of Vattanak Tower and the Ministry of 
+Economic and Finance. Another is planned to be installed near 
+night market. Despite these measures, with the number of 
+registered vehicles increasing rapidly, the illegal parking 
+situation will continue to deteriorate. 
+(5) Sidewalk Management / Maintenance 
+The sidewalk of main roads in central Phnom Penh has a width of about 5 m in many places; however, due 
+to illegal parking and vendors on sidewalks, the walking situation is not safe and can be uncomfortable for 
+the citizens of Phnom Penh. In order to improve public  transport services, it is also important to address 
+safety and comfort issues walking to bus stops. Therefore, improvement of the sidewalk environment is an 
+urgent issue in Phnom Penh. The management of sidewalks is under DPWT and Khan; however, owing to 
+the agency’s financial problems, the residents themselves had to have damaged sidewalks in front of their 
+houses repaired. Thus, the management of sidewalks is out of control. 
+(6) Traffic Demand Management 
+With the COVID-19 pandemic as a trigger, telework started in government offices and private companies. 
+Telework is also effective as an urban transport countermeasure; however, it is unclear whether telework 
+will continue in Phnom Penh in the future. 
+3.2.4 Urban Logistics 
+(1) Logistics Facilities 
+1) Phnom Penh Port 
+Phnom Penh Port is the second largest port in Cambodia and the largest river port. The port was opened 
+in 1905. Phnom Penh Autonomous Port (PPAP), a state-owned enterprise wholly owned by MEF, was 
+established in 1998 as a management and operation entity. PPAP has been licensed by the governments 
+to operate river ports exclusively in the following "Port Commercial Zone", and anyone who intends to 
+develop a port in this area is required to consult with PPAP in advance. Phnom Penh Port extends over 
+a wide area north and south of the Tonlé Sap and Mekong Rivers. In Phnom Penh, there is a multipurpose 
+terminal (TS3) in Daun Penh. In 2013, a new contai ner terminal (LM17) was constructed and put into 
+Source: JST 
+Figure 3.2.19  Underground Parking 
+
+
+[p102]
+Data Collection Survey on Urban Transport in Phnom Penh 
+Final Report 
+ 
+4-8 
+ 
+Source: Phnom Penh Sustainable City Plan 2018-2030 
+Figure 4.2.3  Linkage between Phnom Penh Sustainable City Plan and other Major Plans 
+The plan has eight sectoral objectives including transport sector, in which there are four practical objectives 
+of the transport sector as follows. 
+Transport Sector Objectives 
+ Reduce transport sector greenhouse gas emissions (percentage reduction over current baseline) 
+ Bus-based public transport system in place, covering key transport corridors in the city (percentage of 
+total modal share) 
+ Reduce traffic accidents (percentage of reduction vs. current yearly baseline) 
+ Reduce traffic congestion (increase in average vehicle speed vs. current baseline) 
+The plan proposed priority actions based on the analysis of existing development plans. The priority actions 
+for transport development are listed below.  
+ Comprehensive and integrated traffic management system in place, adequately resourced and staffed, 
+ Parking regulations are enforced, 
+ Introduce sulphur content limits for transport fuel in line with regional standards (in the region of 50 
+ppm reduced from current 1,000 ppm), 
+ A system of daily air quality monitoring (increased from the current three monitoring stations) put in 
+place across the city monitoring for key air pollutants (PM10, PM2.5, SOx, NOx , CO and O3), 
+ Reduce the use of motor vehicles, 
+ A plan in place to encourage cycle use in the city, including consideration of segregated lanes and cycle 
+paths, 
+ A system of inducements to encourage the use of low-emission vehicles in place (i.e. those with better 
+emissions performance standards in terms of gCO2/km or similar, hybrid or electrical vehicles). 
+However, these actions do not have any concrete ideas nor detailed information. 
+
+
+[p104]
+Data Collection Survey on Urban Transport in Phnom Penh 
+Final Report 
+ 
+4-10 
+In addition, with the support of the EU, PPCA and the International Association of Mayors of Francophonie 
+(AIMF 2 ) which is one of internationa l cooperation organizations in France prepared the "Smart & 
+Sustainable City Strategic Road Map 2020/2035." The outline is as described below. 
+Table 4.2.3  Outline of Smart & Sustainable City Strategic Road Map 2020/2035 
+Vision  Phnom Penh, a Capital City that uses information & technology to better respond sustainably to its community and business needs 
+Focus Topics and 
+Objectives 
+ Topic 1:Land use  
+ Topic 2: Safety – security  
+1) Pedestrian safety, 2) Vehicle and urban mobility safety, 3) Public space safety, and 4) Maximized 
+monitoring & ensured privacy 
+ Topic 3: Urban Mobility 
+1) Smart parking, 2) (Re) vitalizing driving map, 3) Safe walk, 4) Integrated traffic management, 
+5) Public transportation, 6) Inter-connected mobility hubs/ platforms, 7) Freight & logistics 
+transport optimization, and 8) Integrated roads pattern development in and around the city 
+ Topic 4: Environment 
+1) Waste management, 2) Environment & wellbeing, and 3) Disaster risks management 
+ Topic 5: Digital Management 
+1) E-governance & inter-active communication, and 2) Soft skills readiness digital awareness & 
+smart people 
+Source: Smart & Sustainable City Strategic Road Map 2020/2035 
+Each topic shown in above Table has action plans and priority pilot projects. The actions related to transport 
+are proposed in “Topic 3: Urban Mobility”. 
+ One map integration (link with Topic 1: Land Use) 
+ Smart parking integration management 
+ Mobility mapping / master plan within integrated expected projects developments up to 2035 
+ Traffic integrated monitoring and real time forecast 
+ Convenient journeys & One App smart Mobility 
+ Smart logistic / freight integrated e-management 
+ Physical infrastructures to partner the optimization 
+Furthermore, a total of nine projects have been propo sed as priority pilot projects, of which the following 
+three are related to transportation. 
+ Smart bus shelters: optimizing resources 
+ One App city mobility project 
+ Intermodal / connectivity hubs & smart parking 
+These plans related to smart cities described above have been led by the PPCA Deputy Governor, and there 
+is no specific department in charge. The approval process of these plans has not been identified. 
+4.2.4 Urban Development Projects 
+(1) Housing Development 
+Large-sized housing development projects in Phnom Penh Capital City has been confirmed in “Preparatory 
+Survey for Phnom Penh Urban Railway Development Project in the Kingdom of Cambodia, 2020 (JICA)”. 
+                                                      
+2 Association internationale des maires francophones 
+
+[p111]
+Data Collection Survey on Urban Transport in Phnom Penh 
+Final Report 
+ 
+4-17 
+comfortable and smooth transport system is expected to be materialised in the dense city centre. In other 
+words, implementation by mutual linkage of the several measures such as traffic signal system 
+upgrading, one-way system, on-street parking measures and sidewalk improvement which are triggered 
+by traffic signal system upgrading, can result in a safe and smooth transport system. 
+ 
+Source: JST 
+Figure 4.3.5  Traffic Management Proposed in PPUTMP 
+4.3.3 Discussion for National Approval of PPUTMP 
+At the finalization stage of PPUTMP, PPCA and the JICA Study Team for PPUTMP conducted a study for 
+national approval of PPUTMP. 
+Land use plan of major cities in Cambodia is ma inly discussed at the National Committee for Land 
+Management and Urban Planning (NCLMUP) of the Ministry of Land Management, Urban Planning and 
+Construction (MLMUPC), and finally was to be ap proved by the Council Ministers. Considering the 
+approval process of land use plan, JST for PPUTMP proposed an approval process of urban transport master 
+plan as shown in Figure 4.3.6 and series of discussions were made with PPCH, DPWT, MPWT and 
+MLMUPC. However, it was found that there were no experts on urban transport in the NCLMUP members 
+at the time and there were no enough time for appr oval process after the reappointment of new NCLMUP 
+members by the end of the PPUTMP project. Therefor e, it was abandoned to achieve the approval by the 
+end of the PPUTMP project. 
+Image of Traffic Control Centre 
+(TCC)
+Image of Traffic Signal 
+Improvement
+Location
+Tokyo, Japan (Keep Left)
+On-Street Parking Measures in 
+the City Center
+Pedestrian Circumstances 
+Improvement
+Major Roads & Roads along Public Transport Routes Local Roads
+Current  Condition Current  Condition
+Future Future
+Parking/
+Stopping Space
+Bus Stop
+Parking/
+Stopping Space OnewaySystem
+Illegal
+On-sidewalk
+Parking
+Illegal
+On-street
+Parking
+Illegal
+On-sidewalk
+Parking
+Illegal
+On-street
+Parking
+Parking/
+Stopping Space
+Illegal
+On-street
+Parking
+Illegal
+On-sidewalk
+Parking
+Illegal
+On-sidewalk
+Parking
+Traffic Signal System Upgrading (Japan’s Grant Aid Project)
+
+[p113]
+Data Collection Survey on Urban Transport in Phnom Penh 
+Final Report 
+ 
+4-19 
+4.4 Other Plans related to Urban Transport in Phnom Penh 
+4.4.1 Phnom Penh Urban Transport Master Plan Revision Work (PPUTMP Revision Work) 
+(1) Outline of the Project 
+PPUTMP recommended maintaining the continuous urba n vitality and sustainable urban environment 
+based on a balanced decentralised urban structure and 30% of transport demand in 2035 shifting to public 
+transport mainly consisting of the Automated Guideway Transit (AGT) and bus transport. 
+However, the development of AGT by public debt, which is a trunk public transport system, was suspended 
+after the Feasibility Study mainly due to financial issues. Therefore, the urgent urban transport issue in 
+Phnom Penh is how to reconstruct the future urban transport system in the absence of AGT. 
+Considering the above circumstances, the purposes of  the Study are 1) to understand the current urban 
+transport system based on the comparison between the actual situation as of today and the situation planned 
+in PPUTMP as the state of the medium-term target year 2020, and 2) to propose measures that make 
+effective and maximum use of existing urban transport infrastructure and the concept of PPUTMP. This is 
+because these can be a hint for the fo rmulation of future restructuring of the urban transport system in 
+Phnom Penh. 
+ 
+Source: PPUTMP Revision Work Project Team 
+Figure 4.4.1  Work Flow of PPUTMP Revision Work 
+(2) Major Findings 
+1) Phnom Penh Urban Transport Conditions Comparison between Current Situation and 
+Proposed Mid-term Measures (2020) in PPUTMP 
+After formulating the PPUTMP, several important proposals such as the feasibility study for rail transit 
+Urban Transport related Trend
+2014>>>2021
+PPUTMP
+2014
+Large-scale
+Urban
+Developme
+nt Projects
+Change
+from
+Motodop to
+RHS
+AGT
+F/SPiBO
+Traffic
+Signal ADB
+Urban Transport related
+Project after PPUTMP
+・SDGs
+・COVID-19
+・MaaS
+・Smart City
+•PassApp
+•GRAB
+•City Center
+Development
+•New Airport
+•AEON3
+•Koh Norea
+Satellite City
+Bus 
+TCP
+Traffic 
+Control  
+System 
+TCP
+•TOD Central 
+Station
+•Mode 
+Interchange
+Proposed 
+Public 
+Transport and 
+Traffic 
+Management 
+Measures in 
+Phnom Penh by 
+Maximize Use 
+of Existing 
+Infrastrucutre
+PPUTMP Rev
+PT 
+Modal 
+Share: 
+30% 
+Balanced 
+Decentrali
+zation of 
+Urban 
+Structure
+Basic 
+Concept 
+from 
+PPUTMP 
+6-Radial 
+and 4-
+Ring 
+Road 
+System
+Traffic 
+Manage
+ment
+•PT: Suspended
+AGT and Low
+Bus Utilization
+TM: Inefficient 
+Utilization of 
+Road, 
+Intersection and 
+Parking
+Land Use: 
+Rapid 
+Sprawling
+Problems/Issues
+Data 
+Collection 
+Survey on 
+Urban 
+Transport in 
+Phnom Penh
+Road: 
+Incomplete 
+Main Road 
+Network
+
+[p115]
+Data Collection Survey on Urban Transport in Phnom Penh 
+Final Report 
+ 
+4-21 
+ 
+Source: PPUTMP Rev Project Team 
+Figure 4.4.3  Proposals in PPUTMP, Current Status as of 2020 and Proposals in PPUTMP 
+Revision Work 
+It is more effective to implement urban transport measures by combining several measures. Based on 
+Figure 4.4.3, several combinations are drawn up as shown in Table 4.4.1. 
+Table 4.4.1  Proposed Urban Transport Measures in PPUTMP Revision Work 
+ 
+Source: PPUTMP Rev Project Team 
+(3) Considerations to this Survey 
+In the revision work, quantitative transport surveys were not included as it was designed to help PPCA and 
+DPWT officials understand urban transport issues and increase their awareness of participation in the 
+revision of the PPUTMP. Input for the revision of PPU TMP is in conjunction with the Survey. In the 
+・
+・
+・・
+・・・
+・・・
+ ・  
+・ ・
+・
+・One-way System ・No progress after PPUTMP ・Introducing more one-way roads
+・・
+・・・
+・・・
+・ ・
+Items PPUTMP in 2035 PPUTMP rev in 2020 PPUTMP rev's Conclusion
+Public
+Transport
+・ AGT + Bus Transport + Commuter
+Train covers 30% of transport
+demand in 2035
+Assess the urban transport system
+without rail transit
+・ Bus transport has a fleet of 160, 13
+routes and 25,000 pax/day
+AGT plan has been suspended・
+・ How to increase bus ridership
+Development of BRT
+Airport Access (reuse of Existing
+Railway) stopped in 2020
+How to Improve the Existing
+Railway
+Development of para-transit and
+water transport
+Newly operated RHS competes
+with bus along main roads
+How to collaborate with bus and
+RHS
+Individual
+measure do not
+works well.
+The combination
+of several
+measures is
+indispensable.
+Mode interchange area
+development
+Only bus stops are developed as
+part of bus operation
+Needs of development of multi-
+modal interchange area
+Road
+Main Road Network composed of
+6-Radial and 4-Ring with Flyovers
+6-Radial and 4-Ring + Phnom Penh
+- Sihanoukville Expressway +New
+Airport Access + Ring Road
+Extension to East Bank of Mekong
+River
+Completion of 6-Radial and 4-Ring
+Main Road Network System
+including PP - SV Expressway +
+New Airport Access + Additional
+Ring Road
+Development of underground
+parking in the parks/opens paces
+Development of parking not only
+off-road but also on-road
+・ Development of Collector Road
+Network for dense suburban area
+・ Development of collector roads
+mainly private development
+・ Development of collector roads for
+dense sprawled suburban area
+Pedestrian Circumstances
+Improvement
+Still many illegal on-sidewalk
+parking
+Pedestrian circumstances
+improvement
+Driver Education and Traffic
+Enforcement
+No need motorcycle driving license
+under 125cc
+Strengthening driver's education
+and traffic enforcement
+Traffic Demand Management
+(TDM)
+・ Not much progress Introduction of TDM, such as
+telework
+Land Use
+(Urban
+Structure)
+Balanced Decentralization
+Balanced Decentralization has not
+been progressed and sprawl is on-
+going
+How to realize the Balanced
+Decentralization?
+Traffic
+Management
+・ Traffic Signal System ・ Traffic signal system in CBD Traffic signal system in CBD and
+suburban area
+・P a r k i n g  M e a s u r e s
+Combination of Several Measures
+1 Car users shift to public transport
+2 Traffic Signal + Bus Rapid Transit Increase of bus operational speed
+3 Bus + RHS
+4 Car users shift to public transport
+5
+6 Driver's Education + Traffic Enforcement Needs to 1 - 5 above
+ 
+1
+2
+3 Shift Intercity Bus Terminal from CBD to Urban Fringe Deduce of traffic jam along local roads in CBD and generates city buspassengers
+Improvement of existing railway + Park & Ride + Transit
+Oriented Development (TOD)
+Ban of Selling Second-hand Car on the carriageway/sidewalk in
+CBD
+Small but Effective Measures
+Measures Expected Effectiveness
+Telework If one company introduces telework once a week to all staff, attendees ofthe company reduce 20%
+Reduce of traffic jam in CBD
+Combination of Several Measures Expected Effectiveness
+Restructuring Bus and Feeder and decrease of traffic jam along main roads
+Restriction of Car Use to Government and Private Company
+Staff + Distribution of Affordable Commuter Pass
+One-way System + On-street Parking Increase of traffic volume of local road and transfer to illegal parking alongmain roads
+
+[p119]
+Data Collection Survey on Urban Transport in Phnom Penh 
+Final Report 
+ 
+4-25 
+(2) Duration of the Project 
+December 2021 to January 2025 
+(3) Project Outputs 
+(Output 1) Maintenance management system of traffic control system is established. 
+(Output 2) Capacity of TCC staff on the operati on of traffic control system is strengthened. 
+(Output 3) Capacity to design traffic signals is  strengthened through the implementation of pilot 
+projects for traffic signal improvement. 
+(Output 4) Capacity of the relevant staff to traf fic control in PPCA, DPWT and TCC staff to develop 
+the expansion plan of traffic control system is strengthened. 
+(Output 5) Capacity of urban transport related organizations on traffic management measures is 
+strengthened towards enhancement of the project sustainability 
+(4) Considerations to this Survey 
+Expansion of traffic control system is planned in this project. In addition, CCTV camera video image data 
+stored at TCC and other urban transport data will be collected and analysed for solving transport-related 
+issues and utilisation for transport planning. 
+The Project is also assisting MPWT in developing a parking law (bill to be drafted by June 2023) as part of 
+its capacity building for traffic management measures. The parking law will consist of (1) the definition of 
+parking, (2) designation of parking management areas,  (3) management of on-street and setback parking, 
+(4) management of off-street parking, (5) management of mandatory parking in the buildings and properties, 
+and (6) parking fee policies and penalties. The Project also plans to improve the capacity of the PPCA to 
+implement traffic management measures through the trial implementation of the parking law and the 
+accompanying parking planning guidelines. 
+4.4.5 Supporting Sustainable Integrated Urban Pub lic Transport Development - Sustainable 
+Integrated Urban Public Transport Development (ADB Study) 
+(1) Background of the Project 
+The public transport and traffic management compon ents are emerging topics, and the government and 
+PPCA officials require new standards and regulations to consistently plan, design, and implement actions 
+in the PPUTMP medium- and long-term action plans, in support of the development of a sustainable 
+integrated urban public transport system. The deve lopment of standards and regulations will allow the 
+officials to coordinate and manage the action plans to (i) improve accessibility from the travel starting point 
+to the urban public transport system; and (ii) improve connectivity or integration among different modes 
+(e.g., private vehicle, paratransit, walking and public transport), and within a mode (e.g., bus to bus). 
+(2) Objective of the Project   
+The Technical Assistance (TA) will improve Phnom Penh city’s urban public transport system management 
+to achieve a sustainable integrated urban public transport system and promote the use of the system through: 
+(i) developing policy guides and a planning toolkit for relevant public transport authorities; (ii) formulating 
+
+[p120]
+Data Collection Survey on Urban Transport in Phnom Penh 
+Final Report 
+ 
+4-26 
+candidate integrated urban public transport im provement programmes; and (iii) providing capacity 
+development training to the public transport authorities to improve their system management capacity, and 
+public awareness-raising workshops to promote use of the system. 
+(3) Title of the Project 
+TA-9503 CAM: Supporting Sustainable Integrated Urban Public Transport Development - Sustainable 
+Integrated Urban Public Transport Development (51113-001)  
+(4) Duration of the Project 
+November 2018 to December 2021 
+(5) Counterparts of the Project 
+Ministry of Public Works and Transport (MPWT), Phnom Penh Capital Administration (PPCA) 
+(6) Project Outputs 
+Output 1: Sustainable integrated urban public transport policy guides and planning toolkit developed.  
+Output 2: Candidate integrated urban public transport improvement programmes formulated.  
+Output 3: Urban public transport management capacity and awareness improved. 
+(7) Priority Programmes (Tentative) 
+As a part of the integrated urban public trans port improvement programmes, the ADB TA selected the 
+following 3 priority programmes based on the various transport surveys following the longlist of the priority 
+programmes of PPUTMP and conducted the Pre-F/S. 
+  PTIP-1: Inner City Transport Improvement Plan  (Conversion of some streets to transit mall 
+including Sisowath Quay, Re-routing bus routes, Improving pedestrian walkways and On-
+street/off-street parking management) 
+  PTIP-2: Building rapid bus network on the 4 major lines 
+  PTIP-3: Multimodal public transport plan: Improving traffic flow around the Central Station and 
+developing a transit terminal 
+(8) Considerations to this Survey   
+The ADB TA identified the Rapid Bus project assigned along 75 kilometre radial road network and traffic 
+improvement programme (incl uding development of transit terminal in  front of the Central Station, and 
+installation of walkway and on-street parking facilities in CBA) as the priority urban transport programme, 
+following the PPUTMP’s mid-term action plan. 
+In addition, the urban public transport policy guides and planning toolkit developed in this TA aim for local 
+government planning practitioners to support the development of urban transport policies and improvement 
+programs in urban areas in Cambodia, including Phnom Penh. It is expected that PPCA would utilize the 
+policy guides and toolkits to formulate, plan and implement urban transport policies, including public 
+transport and traffic management, and evaluate them. Therefore, it was considered them as part of the inputs 
+when formulating the JICA’s future support program in the Survey. 
+
+[p121]
+Data Collection Survey on Urban Transport in Phnom Penh 
+Final Report 
+ 
+4-27 
+The urban public transport policy guides a planning toolkit are composed of the following contents. 
+<Urban Public Transport Policy Guide> 
+1. Background and objectives, 2. Analysis of the current status of urban transport in Phnom Penh, 3. 
+Cross-cutting issues in urban transport, 4. Counter-measures to improve urban mobility, 5. Counter-
+measures to promote TOD-type development, 6. Measures to cope with climate change, 7. Impact of 
+the COVID-19 on urban transportation and its management scheme 
+<Planning Toolkit> 
+1. Urban transport project planning guide, 2. St rategic planning framework for public transport 
+improvements in Phnom Penh, 3. Public transport,  bus system and traffic management, 4. Parking 
+management, pedestrian and Transit Mall in the City Centre, 5. Urban development and urban 
+transport integration, 6. Roadmap for public transport development and operation 
+ 
+ 
+Source: SSIUPTD (JST modified the legend title.) 
+Figure 4.4.5  Locations of Priority Programme (1 to 3) 
+4.4.6 Urban Railway 
+Phnom Penh Post reported on 28th December 2022 that the F/S of Skytrain project conducted by JICA and 
+the F/S of monorail and subway projects conducted by Chinese companies have been completed. Those F/S 
+report will be delivered to state government after the review. Also, it was reported that Senior Minister Sun 
+Priority Programme 1 Priority Programme 2 (BRT Routes) Priority Programme 3
+
+[p123]
+Data Collection Survey on Urban Transport in Phnom Penh 
+Final Report 
+ 
+5-1 
+Chapter 5 Transport Surveys 
+ 
+5.1 Outline of Transport Surveys 
+A total of ten (10) transport surveys were carried out  as follows in order to understand the updated traffic 
+situation and issues and to develop transport models . The transport surveys listed in Table 5.1.1 are 
+generally the same as the transport survey conducted during PPUTMP in 2014. However, in order to grasp 
+the situation of new transport modes, which are City  Bus service and RHS tuk-tuk, they are additionally 
+covered under the present transport surveys. 
+Table 5.1.1  List of Transport Surveys 
+ Survey contents Objectives and Contents Quantity 
+1 
+Person Trip 
+Survey 
+Home-visit interview surveys were conducted to understand resident’s daily 
+activity and travel records, personal attributes such as income and vehicle 
+ownership, and the impact of the COVID-19 pandemic, in order to create a 
+passenger Origin-Destination (OD) matrix. 
+Approximately 1,000 
+households 
+Commuter 
+Survey 
+Similar to Person Trip survey, but the survey form is more simplified by 
+removing questions regarding daily activities. 
+Approximately 4,000 
+households 
+2 Cordon Line Survey (CLS) OD interviews and vehicle count surveys were conducted to capture the OD traffic volume, cargo type and volume of passengers and cargo from outside the Survey area. 11 points on roads, 1 airport and 3 ferry terminals 
+3 Screen Line Survey (SLS) To understand the amount of traffic flowing into the city centre and to verify the reproducibility of the traffic model in its current state, count surveys were conducted on screen lines. 12 points on roads (3 points are covered by Intersection Traffic Survey) 
+4 
+Passenger 
+Interview Survey 
+(PIS) 
+For each mode (passenger car, RHS, city/commuter bus1, motorcycles), 
+interviews were conducted at locations where users of each mode gathered in 
+order to understand the characteristics of users, their awareness of traffic 
+issues, and the possibility of shifting to a new mode. 
+Approximately 2,000 
+samples in total 
+5 Roadside Traffic Survey (RTS) Count surveys were conducted to understand the traffic volume in the city and to verify the reproducibility of the traffic model. 17 points 
+6 
+Intersection 
+Traffic Survey 
+(ITS) 
+Traffic count surveys were conducted at major intersections to study 
+intersection improvements and to verify the effectiveness of existing signals 
+and flyovers.  
+13 points 
+7 Travel Speed Survey (TSS)2 Conduct speed surveys using GPS loggers to observe travel speed by mode and corridor. Also, the survey result will be used to identify the operation area of RHS.  
+13 passenger car routes 
+50 RHS three-wheeled 
+vehicles 
+50 commuter buses 
+8 
+Parking 
+Condition 
+Survey (PCS) 
+Conduct interviews and count surveys at facilities and on streets to observe 
+parking capacity, usage, and impact on roadways and sidewalks. 
+Facilities: 17 locations 
+& On-street 
+                                                      
+1 Commuter buses: Buses operated by companies located mainly in the SEZ for commuting of their employees. 
+2 GPS log data for bus travel speed  will be obtained via the PiBO. 
+
+[p147]
+Data Collection Survey on Urban Transport in Phnom Penh 
+Final Report 
+ 
+5-25 
+ 
+Source: JST 
+Figure 5.3.27  Opinion on No Entry Policy of RHS on Arterial Roads 
+RHS users answered “affordable fare label” "no need  to walk" and "easy to book" as the main reasons 
+for using RHS as shown in Figure 5.3.28. 
+ 
+Note: Multiple answers are allowed. Therefore, total percentage of share exceeds 100%. 
+Source: JST 
+Figure 5.3.28  Major Reason for Using RHS (RHS Users)   
+3) Opinion on City Bus 
+Car users, motorcycle users and RHS users were inte rviewed about the reasons for not using City Bus. 
+The major reasons are “Comfort and ease of own vehicle” both in Car users (39%) and MC users (32%), 
+followed by “Slow speed of bus”, “Bus stop far from origin/destination”, and “Bus routes are limited”. 
+On the other hand, the major reasons for RHS users are “Bus stop far from origin/destination” raised by 
+19% of RHS users. 
+38%
+38%
+17%
+19%
+18%
+14%
+8%
+15%
+3%
+36%
+15%
+2%
+43%
+12%
+12%
+13%
+25%
+0% 5% 10% 15% 20% 25% 30% 35% 40% 45% 50%
+1) No need to walk
+2) Easy to book
+3) Comfortable
+4) No need to find how to get there
+5) No need to find parking place
+6) Weather is not good
+7) No need to transfer
+8) No car or motorcycle is available
+9) No bus service is available
+10) Secured from traffic accident
+11) Secured from crime
+12) Secured from infection risk
+13) Affordable fare level
+14) Easy to make payment
+15) Total travel time is shorter
+16) Waiting time is shorter
+17) On-time
+Comfort and Convenience Safety
+Fares/
+Payment Time
+
+[p149]
+Data Collection Survey on Urban Transport in Phnom Penh 
+Final Report 
+ 
+5-27 
+ 
+Source: JST 
+Figure 5.3.31  Willingness to Use City Bus When Measures are Implemented 
+(CAR, MC, RHS Users) 
+The result of City Bus users shows that 94% of the respondents perceive the current fare (1,500 KHR) 
+as a reasonable level and no respondents answered the current fare level is “Expensive”. 98% of the 
+respondents answered the current operation hour is “Reasonable”. 
+ 
+Source: JST 
+Figure 5.3.32  Opinion on Fare Level and Operation Hour of City Bus 
+4) Opinion on Illegal Roadside Parking 
+Figure 5.3.33 shows the opinion on illegal roadside parking. 71% of respondents disagree or won’t agree 
+to “current situation is acceptable for convenience” and about 90% of respondents are agreed with 
+“illegal parking should be strictly controlled”. In contrast, 63% of respondents disagree or won’t agree 
+with “people should not come to city centre by car”. The respondents consider the current situation is 
+harmful for both traffic flow and pedestrian environm ent. However, they won’t agree with forcing car 
+users to give up on coming to city centre by car. These results indicate that they want more legal parking 
+space and strict control of illegal parking. 
+Yes, 83%
+No, 
+10%
+I don't 
+know, 7%
+Do you use city bus when the bus 
+priority lane is installed and driving 
+speed & time reliability are 
+improved?
+Yes, 72%
+No, 15%
+I don't 
+know, 13%
+Do you use city bus if the discount 
+RHS or e-bike is available between 
+bus stops and your 
+origin/destination?
+
+
+[p150]
+Data Collection Survey on Urban Transport in Phnom Penh 
+Final Report 
+ 
+5-28 
+ 
+Source: JST 
+Figure 5.3.33  Opinion on Illegal Roadside Parking 
+5) Opinion on Commuter Bus  
+Figure 5.3.34 shows the reason of using the Commut er Bus. The major two reasons which about 60% 
+of the respondents answered were “Available mode is only commuter bus” and “Bus pick me up near 
+my home”. Considering 96% of the commuter bus passengers are female and most of the commuter 
+buses are pickup or truck without a seat. 
+ 
+Note: Multiple answers are allowed (up to 2 reasons) 
+Source: JST 
+Figure 5.3.34  Reason for Using Commuter Bus 
+  
+
+
+[p155]
+Data Collection Survey on Urban Transport in Phnom Penh 
+Final Report 
+ 
+5-33 
+Route ID / Street Name Direction 
+Average Travel Speed (km/h) 
+Morning 
+7:00-9:00 
+Afternoon 
+12:00-14:00 
+Evening 
+17:00-19:00 
+TS-08 
+NR5 (City Bus Line1) 
+Inbound 23.3 17.2 24.0 
+Outbound 30.5 28.8 21.4 
+TS-09 
+NR2/ St.211/ St.21A (City Bus Line2) 
+Inbound 22.5 32.0 27.6 
+Outbound 24.6 24.7 16.8 
+TS-10 
+NR1 (City Bus Line1) 
+Inbound 12.6 24.4 24.0 
+Outbound 19.5 22.8 11.5 
+TS-11 
+Chamkar Doung St. (City Bus Line 4C) 
+Inbound 26.7 31.4 29.2 
+Outbound 26.9 29.2 20.8 
+TS-12 
+Monireth/ Veng Sreng/ NR4 (City Bus Line 4) 
+Inbound 13.2 15.7 19.9 
+Outbound 16.2 18.3 14.8 
+TS-13 
+Kampuchea Krom/ Russian Blvd./ NR3 
+(City Bus Line3) 
+Inbound 17.9 22.3 22.9 
+Outbound 20.7 22.9 16.8 
+     
+Average Travel Speed in CBD 
+(TS-01 to TS-07) 
+Inbound 13.3 16.7 14.0 
+Outbound 15.3 16.7 11.5 
+Average Travel Speed outside CBD 
+(TS-08 to TS-13) 
+Inbound 19.4 23.8 24.6 
+Outbound 23.1 24.4 17.0 
+Note: TS-09’s inbound routes and outbound routes are different. 
+Note: Outbound of circular routes (TS-05, TS-06, TS-07) indicate counter clock wise direction. 
+Source: JST 
+Figure 5.3.39 describes the average travel speed on major corridors during morning peak hours. According 
+to the travel speed surveys in 2001, 2012 and 2022, the gradual decline with travel speed can be observed 
+except for Russian Blvd. The improvement on Russian Blvd is considered from the construction of two 
+flyovers: Techno Sky Bridge and Seven Makara Sky Bridge. 
+ 
+Source: JST 
+Figure 5.3.39  Comparison of Average Travel Speed (Morning Peak) (2001, 2012 and 2022) 
+Figure 5.3.40 illustrates trajectories of RHS movements. The coverage of RHS is sufficient especially in 
+CBD. On the other hand, many “parking” and “stopping”  records were observed in suburban areas where 
+demand forecast is small. In addition, no GPS reco rd was found on a certain section of Norodom, where 
+RHS is prohibited to drive.  
+21.4 22.7
+15.6 18.1
+28.2 31.5
+22.9
+14.3 15.6 12.4 13.3 11.6
+20.4
+14.611.4 14.1 9.9 14.4 14.1
+22.8
+14.4
+0
+10
+20
+30
+Inbound Outbound Inbound Outbound Inbound Outbound All
+Monivong Monireth Russian Average
+Average travel speed (km/h)
+2001 M/P Surrvey 2012 M/P Survey 2022 Survey
+
+[p156]
+Data Collection Survey on Urban Transport in Phnom Penh 
+Final Report 
+ 
+5-34 
+ 
+RHS Vehicle Movement 
+Note: Error records are excluded. 
+Source: JST 
+ 
+RHS Drivers Stopping/Parking Spots 
+Note: Error records are excluded. 
+Note: Less than 2km/h was assumed as stopping/parking. 
+Figure 5.3.40  RHS Vehicle Movement 
+Figure 5.3.41 describes the average travel speed of both directions of City Bus line, Line 4B. CBD and 
+Monireth Blvd. / Veng Sreng Blvd., where Line 4A/4B pass, showed a significant drop in the average travel 
+speed. 
+  
+Note: Records of which travel speed is higher than 100km/h were omitted as errors. 
+Source: JST 
+Figure 5.3.41  Average Travel Speed of City Bus (Line 4B) (All Time) 
+5.3.8 Parking Condition Survey (PCS) 
+(1) Survey Objectives 
+The main purpose of the survey is to obtain upda ted information about park ing facilities and parking 
+conditions in central business and commercial area of Phnom Penh Capital City for better traffic 
+management and transport planning. This survey consists of the following items: 
+ Inventory Survey 
+ User Counting Survey 
+ User Interview Survey 
+
+
+[p157]
+Data Collection Survey on Urban Transport in Phnom Penh 
+Final Report 
+ 
+5-35 
+(2) Survey Coverage 
+Survey Location: 
+The survey locations are shown in Figure 5.3.42. There are seventeen (17) parking facilities and thirty eight 
+(38) street sections with on-street parking.  
+ 
+Off-street Parking 
+Source: JST 
+ 
+On-street Parking 
+Figure 5.3.42  Map of the Parking Condition Survey Location 
+(3) Survey Method 
+ Inventory Survey was conducted by site investigation at parking facilities and parking facility name, 
+floor area, operation hour, capacity, fee, etc. were recorded. 
+ User Counting Survey counted the vehicles parked (legally/illegally) at different observation times 
+and number of entering / exiting vehicles.  
+ User Interview Survey targeted not less than 20% of parking users to collect the purpose, trip origin, 
+parking duration and user opinions. 
+The definition of legal/illegal parking is not clearly defined. Thus, the definition in Table 5.3.13 was 
+employed in the survey. Furthermore, the target of each survey contents are summarized in Table 5.3.14. 
+Table 5.3.13  Definition of Legal and Illegal Parking (On-street) 
+Type Description Sample Photo 
+Legal-1  
+(PCS L-1) 
+L-1: a parking inventory providing legal 
+parking space for motorbikes and 
+other vehicles with red/white/yellow 
+line marking and parking fee.  
+(e.g. Central Market and City Mall 
+on-street parking) 
+ 
+
+
+[p158]
+Data Collection Survey on Urban Transport in Phnom Penh 
+Final Report 
+ 
+5-36 
+Type Description Sample Photo 
+Legal-2  
+(PCS L-2) 
+L-2: a parking inventory providing legal 
+parking space for motorbikes and 
+vehicles with red/white/yellow line 
+marking and option to pay for parking 
+fee.  
+(e.g. mart, shop, gas station, and bank 
+parking space) 
+ 
+Illegal-1 
+(PCS I-1) 
+I-1: a parking on streets that provides an 
+illegal parking space for motorbikes 
+and vehicles without any line marking 
+and causes inconven iences to the 
+public or traffic congestion on streets. 
+ 
+Source: JST 
+Table 5.3.14  Target of Parking Condition Survey 
+Type of Parking 
+Parking Condition Survey 
+Parking Inventory 
+Survey 
+User Counting 
+Survey 
+User Interview 
+Survey 
+Off-street 
+(PCF) Parking Facility Surveyed Surveyed Surveyed 
+On-street 
+(PCS) 
+Legal Parking 1 (L-1) Surveyed Surveyed Surveyed 
+Legal Parking 2 (L-2) Not Surveyed Surveyed Surveyed 
+Illegal Parking (I-1) Not Surveyed Surveyed Surveyed 
+Source: JST 
+(4) Survey Results 
+Figure 5.3.43 describes the result of user counting su rvey for off-street parking facilities and on-street 
+parking. The result suggests that the parking demand remains high during daytime and drops at night time. 
+
+
+[p159]
+Data Collection Survey on Urban Transport in Phnom Penh 
+Final Report 
+ 
+5-37 
+ 
+Note1: Off-street parking indicates “PCF”. Locations outside Block A to E are included as well. 
+Note2: On-street parking (legal) includes “PCS L-1” and “PCS L-2” in Block A to E. 
+Note3: On-street parking (illegal) indicates “PCS I-1” in Block A to E. 
+Source: JST based on Parking User Counting Survey 
+Figure 5.3.43  Transition of Parking Demand (Off-street and On-street) 
+Figure 5.3.44 compares the parking capacity including off-street and on-street parking in Block A to E and 
+the parking demand. 
+ 
+Source: JST 
+Figure 5.3.44  Comparison between Parking Demand and Parking Capacity (Block A-E) 
+Figure 5.3.45 illustrates the distance from the fac ility where respondents parked vehicles to their 
+destinations The trend of walking longer distance is observed compared to the result of PPUTMP in 2012. 
+0
+2,000
+4,000
+6,000
+8,000
+10,000
+12,000
+14,000
+16,000
+18,000
+20,000Number of Parked Vehicles 
+Off-street On-street (Legal + Illegal) All (Off-street + On-street)
+Unit: vehicles
+0
+2,000
+4,000
+6,000
+8,000
+600 - 630
+630 - 700
+700 - 730
+730 - 800
+800 - 830
+830 - 900
+900 - 930
+930 - 1000
+1000 - 1030
+1030 - 1100
+1100 - 1130
+1130 - 1200
+1200 - 1230
+1230 - 1300
+1300 - 1330
+1330 - 1400
+1400 - 1430
+1430 - 1500
+1500 - 1530
+1530 - 1600
+1600 - 1630
+1630 - 1700
+1700 - 1730
+1730 - 1800
+1800 - 1830
+1830 - 1900
+1900 - 1930
+1930 - 2000
+2000 - 2030
+2030 - 2100
+2100 - 2130
+2130 - 2200
+PCU
+Time
+Parking Demand and Parking Space
+(All vehicles in PCU in Block A-E)
+Legal parking Parking on sidewalk with marking space Illegal parking
+Legal parking 
+space: 5,705 PCU
+
+[p160]
+Data Collection Survey on Urban Transport in Phnom Penh 
+Final Report 
+ 
+5-38 
+ 
+Source: JST 
+Figure 5.3.45  Distance from Parking Facilities to Destinations 
+Figure 5.3.46 shows the opinion of car users on the stri ct enforcement for illegal parking in CBD. 66% of 
+respondents answered that they would continue using car for traveling to CBD. In addition, 65% of all 
+respondents, 98% of respondents who answered to continue using car, answered that they would continue 
+using their own cars and use nearby parking facilities with  fee. More than half of the users who answered 
+that they would not use private cars in case of strict enforcement cited high parking fees and lack of parking 
+lots. 
+ 
+   
+Source: JST   
+Figure 5.3.46  Behaviour Change in case of Strict Enforcement for Illegal Parking 
+5.3.9 RHS Driver Interview Survey 
+(1) Survey Objectives 
+The RHS Driver Interview Survey aims to get the information about actual situation of RHS drivers and to 
+establish the future transport policy in Phnom Penh.  
+61%21%
+13%
+2%
+1%
+0%
+1% 1%
+2012
+Less than 50 m
+50-99 m
+100-199 m
+200-299 m
+300-399 m
+400-499 m
+500-999 m
+Over 1,000 m
+45%
+26%
+16%
+4% 2%
+1%
+1%
+5%
+2022
+66%
+34%
+Will you still use car for this 
+trip in case illegal parking 
+fine is 25,000 KHR?
+Yes No
+98%
+2%
+If "Yes", what will you do 
+for parking?
+(1) Use the closest parking facility with fee
+(2) Keep using illegal parking space despite
+the risk of being fined
+36%
+26%
+35%
+3%
+If "No", the reason?
+(1) Parking fee at the paid parking facilities in
+CBD area is too high
+(2) No legal parking facilities or insufficient
+parking lots near my destination
+(3) Worried of being fined
+(4) Others
+
+[p161]
+Data Collection Survey on Urban Transport in Phnom Penh 
+Final Report 
+ 
+5-39 
+(2) Survey Coverage 
+Survey Location: 
+The survey was conducted at the following 8 
+locations on November 23 and 24, 2021. 427 
+samples were collected. 
+ Chrang Chamreh Market 
+ Phsar Tauch Market 
+ Central Market 
+ AEON Mall 1 
+ Chbar Ampov Market 
+ Steung Mean Chey Thmei Market 
+ Deum Kor Market 
+ Century Plaza or Pochentong Market 
+ 
+ 
+ 
+ 
+(3) Survey Results 
+As for driver’s age, 25 to 39 years old drivers account for 50% of all interviewed drivers and 40 to 54 years 
+old driver shares 39%. All respondents were male drivers. 83.4% of all respondents were without side 
+business. 79.2% of the drivers work 7 days a week. Many of drivers started using RHS in 2018 to 2019 as 
+shown in Figure 5.3.48 and Figure 5.3.49. 
+ 
+Source: JST 
+ 
+Source: JST 
+Figure 5.3.48  Year of Starting the Job of 
+Tuk-tuk Driver (RHS Drivers) 
+Figure 5.3.49  Year of Starting RHS 
+Application (RHS Drivers) 
+Daily driving distance with passengers for most driver s is less than 100 km as shown in Figure 5.3.50 and 
+many drivers wait for orders at roadside or parking space.  
+ 
+Source: JST 
+Figure 5.3.47  Map of the RHS Driver Interview 
+Survey Locations 
+5%
+1%
+7%
+37%37%
+9%
+4%
+Before 2016
+2016
+2017
+2018
+2019
+2020
+2021n = 427
+1% 1%
+5%
+26%
+42%
+19%
+6%
+2015
+2016
+2017
+2018
+2019
+2020
+2021n = 427
+
+[p162]
+Data Collection Survey on Urban Transport in Phnom Penh 
+Final Report 
+ 
+5-40 
+ 
+Average daily distance with passengers 
+Source: JST 
+ 
+Average daily distance without passengers 
+ 
+Figure 5.3.50  Average Daily Driving Distance by RHS Drivers 
+ 
+ 
+Source: RHS Driver Interview Survey (JST) 
+Figure 5.3.51  Location when Waiting for Passengers (RHS Drivers) 
+Figure 5.3.52 illustrates the areas that RHS drivers indicated as their regular coverage of driving service in 
+the RHS Driver Interview Survey. A ccording to the interviews, one RHS driver covers 2.2 districts on 
+average. The city centre is covered by RHS drivers su fficiently while districts in the suburbs are covered 
+by fewer drivers meaning a less convenient situation of RHS.  
+Drivers perceive “more customers”, “more revenue”, “saving wait time” as the advantage of using RHS 
+while they perceive “app errors”, “commission fee” a nd “cannot change fare” as the disadvantages. RHS 
+enables passengers to take a ride without a bargai n with drivers, which is a significant advantage for 
+passengers. On the other hand, drivers have no discre tion on fares, which results in their revenue being 
+affected by decisions of an RHS company. 
+In addition, 73.3% of respondents register at one RHS company only. The registration percentage for 
+PassApp is 84.8% and that of Grab is 31.1% respectively. 
+ 
+24%
+48%
+20%
+7%
+1%
+a. 0 to 49 km
+b. 50 to 99 km
+c. 100 to 149 km
+d. 150 to 200 km
+e. > 200 km
+(n = 427)
+86%
+13%
+1%
+a. 0 to 49 km
+b. 50 to 99 km
+c. 100 to 150 km
+(n = 427)
+17%
+27%
+38%
+6%
+1%
+2%
+9% 1. Keep driving
+2. Roadside
+3. Parking space
+4. Your home
+5. Café
+6. Near bus stop
+7. Other
+(n = 427)
+
+[p188]
+Data Collection Survey on Urban Transport in Phnom Penh 
+Final Report 
+ 
+6-17 
+ 
+Source: JST 
+Figure 6.2.6  Relationship between V/C and Speed/ Travel Time by Link Performance Function 
+(2) Assumption for Road Network Assignment 
+Assumptions applied for the road network assignment are as follows. 
+ Assignment Method: Equilibrium assignment  
+ Generalized cost in route choice: Only time is considered as there is no toll way in the network 
+ Link performance function: BPR function (α=3, β=1.4) 
+ Traffic restriction: Truck traffic regulation in CBD and One-way traffic (according to current status) 
+(3) Speed and Cost of Modes 
+The speed and cost of each mode were set as shown in Table 6.2.15. The speed of modes that use roads was 
+set at the speed after the network assignment except fo r bus. A factor was applied for the speed of bus 
+considering boarding and alighting time. Fuel fee was assumed for the cost of car and motorbike and 
+parking charge was added to the cost of car further. The cost of RHS was assumed based on the fare system 
+of PassApp. Based on the result of Passenger Intervie w Survey, the access modes to public transport were 
+assumed to be walk in CBD, where access distance is relatively shorter, kiss&ride by motorbike in suburbs 
+where access distance is longer. Maximum acceptable access time was set 20 minutes based on the survey 
+result. 
+Table 6.2.15  Assumed Speed and Cost of Modes 
+Mode Speed Cost (Riel) Cost Remark 
+Car Link speed (4,000x/20 +4,000)/1.69 Fuel + Parking / Occupancy 
+Motorbike Link speed 4,000x/40/1.43 Fuel / Occupancy 
+TukTuk Link speed (1,200x +3,000)/1.51 PassApp Cost / Occupancy 
+Bus Link speed*0.85 1,500 Flat fare of City Bus 
+Bus Priority Lane Link speed*0.95 1,500 Flat fare of City Bus 
+BRT 17 kmph 1,500 Flat fare of City Bus 
+Urban Rail 28 kmph 270x + 2,000 Distance based fare 
+Access Walk (CBD) 4~5 kmph 0 No cost 
+Access kiss&ride MC (Suburb) Link speed 4,000x/40*2 Fuel for round trip 
+Note: x = distance in km, Fuel = 4,000 KHR/l/Fuel consumption 
+Source: JST 
+
+
+[p208]
+Data Collection Survey on Urban Transport in Phnom Penh 
+Final Report 
+ 
+7-9 
+ 
+Note: “Widening (Plan)” includes the sections constructed after PPUTMP had been formulated but it required further widening 
+to reach to the proposed service level in PPUTMP. 
+Source: JST 
+Figure 7.1.9  Location of the Highway Projects in PPTUMP (Whole PPCA Area)  
+7.1.3 Traffic Management Sector 
+Twelve (12) projects were proposed for the traffic management sector in PPUTMP. Three (3) projects were 
+completed and most of the projects were mostly completed or on-going. Pr ogress of the pedestrian 
+environment, mobility management, parking project is very limited. It should be noted those projects related 
+to pedestrian and parking were closely related to the public transport sector. 
+Table 7.1.3  Review of PPUTMP (Traffic Management Sector) 
+Code Project Name Details Progress 
+Issues 
+Financial Environ-mental Legal Social Culture 
+TM-1 Chamkar Morn Intersection Signal phasing adjustment 【Complete】     
+TM-2 
+Neang Kong 
+Heang 
+Intersection 
+Revision of traffic regulation 
+【Complete】     
+Signal phasing adjustment 
+
+
+[p209]
+Data Collection Survey on Urban Transport in Phnom Penh 
+Final Report 
+ 
+7-10 
+Code Project Name Details Progress 
+Issues 
+Financial Environ-mental Legal Social Culture 
+TM-3 
+Chrouy 
+Changvar 
+Intersection 
+Underpass 
+【Suspended】Not 
+start yet in terms of land 
+acquisition and 
+construction cost. (Fin., 
+Env.) 
+✓ ✓   
+TM-4 One-way system Introduction of one-way system 
+【Partially complete】
+Additional one-way 
+system in the PPUTMP 
+revision work was 
+proposed. But not 
+progressed yet due to 
+lack of consensus with 
+roadside residents is an 
+issue (Soc.) 
+   ✓ 
+TM-5 Parking measures 
+Off-road parking 【Partially complete】
+Several underground 
+parking facilities have 
+been constructed using 
+under the public park. 
+On-street parking 
+(charged) is currently 
+difficult to be installed, 
+because it can be parked 
+anywhere for free. 
+Parking information 
+system has not been 
+implemented yet. (Fin., 
+Leg.) 
+✓  ✓  
+On-road parking 
+Parking information system 
+TM-6 
+Development 
+of comfortable 
+pedestrian 
+environment 
+Dissemination to citizens along 
+the roads 
+【Partially complete】
+Pedestrian network at 
+the intersections was 
+secured by the traffic 
+signal installation, but it 
+is still hindered by 
+illegal parking along the 
+trunk roads. (Soc.) 
+   ✓ 
+Guide to remove illegal 
+sidewalk parking, etc. 
+Sidewalk widening 
+TM-7 Transit mall  【Studied by ADB】  ✓  ✓ 
+TM-8 
+City centre 
+traffic signal 
+improvement 
+project for 100 
+intersections 
+Synchronized traffic signal 
+control 
+【Mostly complete】
+Even synchronized 
+traffic signal and 
+control centre were 
+installed, traffic 
+monitoring system 
+using probe vehicles, 
+traffic information 
+system, transit signal 
+priority system were not 
+implemented. 
+    
+Area traffic control system 
+Intelligent traffic signal 
+Traffic surveillance system 
+Traffic monitoring system 
+using probe vehicles 
+Traffic information system 
+(Variable message sign system) 
+Transit signal priority system 
+
+[p210]
+Data Collection Survey on Urban Transport in Phnom Penh 
+Final Report 
+ 
+7-11 
+Code Project Name Details Progress 
+Issues 
+Financial Environ-mental Legal Social Culture 
+TM-9 Park and bus ride Transfer to bus from cars in the suburban area 
+【Incomplete】Parking 
+space for P&R1 is 
+difficult to develop. 
+Because of financial 
+issue. Basically, No. of 
+P&R users are small, 
+but K&R2 have more 
+possibility than P&R. 
+(Fin., Soc.) 
+✓   ✓ 
+TM-10 Mobility management  
+【Incomplete】Even 
+though government 
+offices have introduced 
+telework due to the 
+COVID-19, the PC 
+owned household rate is 
+still low, therefore the 
+introduction of 
+telework, especially 
+private sector is not 
+progressing. (Soc.) 
+   ✓ 
+TM-11 
+Driver's 
+education and 
+traffic 
+enforcement 
+ 
+【Not completely 
+enforced】 
+Driver education is 
+occasionally conducted 
+with the donor support 
+project and traffic 
+enforcement activity is 
+insufficient because of 
+lack of No. and quality 
+of traffic police officers. 
+(Fin., Soc.) 
+✓   ✓ 
+TM-12 
+Preparation of 
+parking space 
+for trucks in 
+the city centre 
+ 
+【Incomplete】
+Discussed but not yet 
+implemented. (Fin., 
+Leg.) 
+✓  ✓  
+Source: JST 
+ 
+  
+Source: JST Source: JST 
+Figure 7.1.10  Traffic Signal with CCTV Figure 7.1.11  Traffic Control Centre 
+                                                      
+1 P&R: Park and Ride 
+2 K&R: Kiss and Ride 
+
+
+[p213]
+Data Collection Survey on Urban Transport in Phnom Penh 
+Final Report 
+ 
+7-14 
+It is expected that frequent commuting and business trip crossing the Phnom Penh municipality area will 
+be generated in the future. Accord ingly, further coordination on transport planning and management with 
+Kandal Province and PPCA will be required. 
+(3) Delayed Implementation of Urban Transport Project 
+The following figure shows a summary of the project progress in PPUTMP. Comparing with other sectors, 
+the number of complete project for public transport sector is limited since most of the railway projects were 
+suspended after the F/S. A major reason of the susp ension is budgetary constraint and the financial 
+feasibility issue as a transport business. The delay of implementation of the public transport project will 
+contribute to leading to the development of Motorised Society. The introduction of a public transport system 
+is essential to achieve the goal of Phnom Penh, a sustai nable city. It is required to re-examine a feasible 
+public transport system considering the issues on implementation and constraints.  
+ 
+Source: JST 
+Figure 7.2.2  Progress of the Projects Proposed in PPTUMP 
+(4) Social Culture as Key Factor for Success in  Implementation and Management of Public 
+Transport and Traffic Management Project/Program 
+Most of the incomplete projects in the traffic management sector can be said as the complemental projects 
+to increase the accessibility and usabilit y of public transport such as pa vement, the parking and bus ride 
+system and mobility management. The progress of those projects is limited due to social culture obstacles. 
+For example, the uncontrolled on-street parking as well as the low quality and unstandardized design of 
+sidewalks which tend to hinder pedestrian’s walking environment is a common exercise. Another example 
+is the development of the bus stop which always f aces opposition against it by the neighbouring property 
+owners. If the budgetary constraints continue, those complemental projects should be implemented to 
+increase the usability of existing public transport. 
+10%
+31% 25% 23%
+19%
+47%
+33% 36%
+10%
+8% 4%
+38%
+6%
+8% 16%
+24% 14% 25% 19%
+0% 3% 1%
+0%
+20%
+40%
+60%
+80%
+100%
+Public Transport Road Traffic Management Total
+Complete Partially Complete F/S Stage Suspended Incomplete Unknown
+
+[p214]
+Data Collection Survey on Urban Transport in Phnom Penh 
+Final Report 
+ 
+7-15 
+7.2.2 Institutional and Organisational Issues in Urban Transport 
+(1) Absence of Agreed Vision, Strategic Plan and Action Program in Urban Transport 
+PPUTMP is only the comprehensive transport master plan in Phnom Penh. The implementation of the 
+master plan would be achieved through a number of wo rkshops and seminars to confirm with the related 
+upper and on-going plans/programmes. A number of stakeholders, including decision makers in Phnom 
+Penh and Khan need to agree with the strategic plan and action programme in PPUTMP that are not 
+officially included with the long-term budgetary plan of PPCA and Khan. 
+(2)  Absence of Transport Planning and Management Agency and Lack of Coordination between 
+the Concerned Government Agencies 
+MPWT is responsible for the development of transport infrastructure at the national level, legislation related 
+to transport, vehicle registration and driver's licen ce system. DPWT is developing transport infrastructure 
+at the local level, and vehicle registration work has been transferred from MPWT. In addition, traffic police 
+is responsible for ensuring traffic safety, cracking down on traffic violations, investigating traffic accidents 
+and providing traffic safety education.  
+In addition, the overall planning and management of the urban infrastructure and service are always tasked 
+to three different Deputy Governors of PPCA and there isn’t transport planning and management function 
+in PPCA. CBA only functions as a service provider to operate commuter bus service in Phnom Penh. 
+The duties and responsibilities of development and management of urban transport infrastructure and 
+service are scattered among MPWT, DPWT, traffic police and PPCA. A close coordination among MPWT, 
+DPWT and traffic police should be initiated by PPCA and is required to achieve integrated and effective 
+management in urban transport. 
+ 
+Source: JST 
+Figure 7.2.3  Absence of Transport Planning and Coordination Agencies  
+MPWT PPCA Khan Private
+Transport 
+Planning
+Law / 
+Regulation
+Operation
+Railway
+Bus
+Para-transit
+(RHS)
+Traffic Signal
+Parking
+Infrastructure
+Construction
+Maintenance
+✓ Road Law/
+Traffic Law /
+Prakas
+✓CBA
+✓TCC
+✓Public
+On/Off Parking
+✓ Cargo
+✓ Inter-city
+bus operators
+✓RHS
+Company & 
+Owner drivers
+✓Private
+Parking
+✓ Traffic Control
+/ Number plate
+Issue (PV)
+✓ Traffic Police
+/ Number plate
+Issue (RHS)
+National Road
+✓
+✓
+Arterial Road
+✓
+✓
+Local Road
+✓
+✓
+Traffic 
+Information
+✓Bus / TCC 
+Operation Data
+✓RHS
+Location data
+Lack of Comprehensive Transport Planning Authority
+Lack of Spatial Coordination
+(e.g. Connected pedestrian route) 
+Lack of Operational Coordination
+(e.g. Transit & Information)
+Outsourcing?
+e.g. private
+road operators, 
+illegal parking 
+inspector 
+
+[p216]
+Data Collection Survey on Urban Transport in Phnom Penh 
+Final Report 
+ 
+7-17 
+7.2.3 Issues on Urban Transport-related Infrastructure and Facilities 
+(1) City Bus  
+1) Absence of Terminal Facility in City Centre 
+As seen in the previous chapter, the average bus operation length of each bus route exceeds 20 kilometres 
+due to the limited availability of bus terminal facilities. The location and space of these bus terminal 
+facilities become part of the determinants of the bus routing/servicing. Efficient operation means that 
+bus runs frequently in the section of high passenger demand and runs low frequent in the section of low 
+demand. However, some bus routes are composed of many kilometres of dead run due to the limited bus 
+terminal facility. Also, the long bus route makes difficult to secure punctuality due to the uncertainty of 
+traffic jam. 
+2) Further Improvement in Comfort for Bus Users  
+Bus stops should be located based on passenger demand and accessibility to public facilities such as 
+schools, hospitals, temples and markets. However, due to strong objections by roadside building owners, 
+the CBA faces difficulties to place bus stops at proper locations, which hinders bus users’ accessibility 
+to bus stops. 
+Most of sheltered bus stops are equipped with lighting facilities which at minimum improve the security 
+of bus passengers. These sheltered bus stops are desired to be equipped with additional security tools 
+such as a security camera to maximize the security of bus passengers. The worst cases are seen at stand-
+type bus stops where there are no proper lighting facilities and security tools. 
+3) Further Improvement in Spacing and Design of Bus Stop Facilities 
+Bus stops should be also located considering the impacts to traffic flow. However, due to limited 
+availability of the spaces for bus stops, some bus st ops are placed near intersections. The PPCA also 
+encourages placing a number of sheltered bus stops which significantly improve comfortability for bus 
+users. However, these sheltered bus stops are placed without considering spaces for pedestrians and 
+sometimes hinder the flow of pedestrian traffic.  
+Most bus stops are placed with bus stop markings, however the illegal parking of vehicles and 
+motorcycles is often seen at/near the bus stops. Th is significantly hinders the safety of the buses and 
+accessibility by bus passengers. 
+The original bus stop design was not found to be user-friendly: The whole bus network and transfer bus 
+stops were not seen. The bus line information with th e bus stops are too detailed and not visible. The 
+bus stop at glance cannot inform the bus line and direction (starting and ending terminals). The bus stop 
+design was gradually improved but should be further improved reflecting users’ needs. 
+The JICA PiBO Project has drafted Bus Stop and Facility Design Guide and bus-related infrastructure 
+and facilities should be designed and planned/placed following this design guide.  
+
+[p217]
+Data Collection Survey on Urban Transport in Phnom Penh 
+Final Report 
+ 
+7-18 
+ 
+Source: JICA PiBO 
+Figure 7.2.4  Bus Stop Design 
+4) Underutilised e-Payment System 
+The CBA launched e-Payment system: smart card by  Wing in 2018 and QR-code payment system by 
+Acleda in 2019 and all buses are equipped with these payment systems since then. However, less than 
+3% of bus passengers use those e-Payment systems before the suspension of bus operation. Fewer 
+number of paid passengers, lack of awareness toward e-Payment system, fixed and lower rate of fare all 
+contribute to lowering the usage of e-Payment system. And these e-Payment systems should be 
+encouraged as part of prevention measures against COVID-19. PPCA also launched an application for 
+City Bus in 2019. The application, which was devel oped by iTsumo Tec. (a subsidiary company of 
+FIGIX Industry Co., Ltd.), provides the real-tim e bus location information and bus route network 
+information for users. In addition, there is a plan  to integrate other functions such as calling taxis, 
+shopping online and booking bus ticke ts in the application, however, these functions are still at the 
+demonstration phase. 
+(2) Paratransit  
+1) Lack of Terminal/Parking Facilities 
+The number of RHS users is becoming dominant among public transport passengers and accordingly, 
+the number of registered RHS vehicles has been  increasing rapidly. These increased number of RHS 
+users and vehicles contributes to worsening the traf fic congestion in Phnom Penh and integration of 
+RHS with mass public transport mode is inevitable to reduce severity of urban traffic congestion.  
+Based on the result of travel speed of RHS, around 80% of all observations are less than 26 km/h. Many 
+stop records were observed around Chaom Chau Market and Russei Keo Market, which suggests that it 
+is more difficult for drivers to find passengers in suburbs. Most of the RHS vehicles are parked on the 
+road since exclusive parking space for RHS vehicles are limited such as the front of shopping mall, 
+which tends to hinder the traffic flow of both vehicl es and pedestrians. Also, there is no proper transit 
+facility to promote the modal transfer between City Bus as mass public transport and RHS. 
+
+
+[p218]
+Data Collection Survey on Urban Transport in Phnom Penh 
+Final Report 
+ 
+7-19 
+2) Lack of Centralised and Integrated Information System 
+RHS companies provides a real-time location system of vehicles by each operator’s application. These 
+location system and data currently tend to be ut ilised only by the RHS passengers and companies and 
+would benefit the public transport agency if fully utilised to monito r the demand and security of RHS 
+passengers and to develop the evidence-based in frastructure and service planning. These data once 
+integrated among different operators and other service providers such as the CBA could also benefit the 
+public transport passengers to integrate the differ ent payment systems, including issuance of discount 
+codes. 
+3) Lack of Unified e-Payment System 
+Currently, each public transport service provider has its own payment system: Wing card and QR code 
+by the CBA and credit card and top up charge by RHS companies. Integration of fare payment system 
+may contribute to improving user friendliness to the public transport users and security and safety of the 
+users to prevent from the contact of COVID-19 virus. Sometimes it may also result in increasing the 
+number of public transport users if any fare reduc tion is introduced such as the monthly subscription 
+payment. 
+(3) Other Public Transport Modes 
+1) Safety Issues in Commuter Truck / Motorumorque 
+Commuter trucks and motorumorques are used by  factory workers and students for commuting in 
+suburban areas. The fleets of these trucks and motorumorques tend to be very old and do not meet safety 
+standard. Passengers basically travel by standing on the truck deck bed under the heat of the sun or in 
+the rain. The cost of commuting by truck may be low but passenger safety and comfort are neglected. 
+2) Limited Service of Taxi Boats 
+Since three rivers, namely, the Mekong River, the Tonlé Sap River and the Bassac River run across the 
+east side of Phnom Penh, the river crossing boats have been used for long time in Phnom Penh. 
+Following the recommendation by the Minister of Public Works and Transport, DPWT developed piers 
+and purchased 2 units of taxi boats and CBA currently operates these two taxi boats between Ta Khmau 
+and Freedom Park. These taxi boats are expected to  function as part of commuter transport mode, 
+however, still collects very few passengers due to limited service frequency. 
+3) Lack of Terminal/ Parking Facilities for Taxi Boats 
+Although the service route of taxi boats running between Ta Khmau and Freedom Park meets the travel 
+demand generated in southern Phnom Penh and has potential to increase the ridership, there is no proper 
+terminal and parking facilities available to transfer the taxi boat to/from private car and public transport 
+modes. 
+4) Dispersed Intercity Bus Terminal 
+Currently, each intercity bus operator has its own te rminal and parking facility mostly located and 
+scattered within the city centre. These intercity bu ses transport both passengers and small parcels and 
+which always generates a number of trips sending/co llecting them. Traffic congestion caused by large 
+
+[p219]
+Data Collection Survey on Urban Transport in Phnom Penh 
+Final Report 
+ 
+7-20 
+parking buses can be frequently observed at the entrance/exit of the intercity bus terminal located in an 
+area lined with narrow and busy streets in the CBD. 
+(4) Highway 
+1) Rapid Increase in Vehicle Ownership and Registered Vehicle  
+The number of newly registered vehicles in Phnom Penh, which was 282,137 in 2013, has almost 
+doubled to 506,226 in 2021. After 2005, the increasing trend has continued for more than 15 years. 
+Previously, it was possible for residents outside Phnom Penh to register vehicles in Phnom Penh. Since 
+it was banned around 2020, the numbe r of newly registered vehicle has slightly decreased. The 
+breakdown of the number of newly registered ve hicles in 2021 was 432,255 motorcycles (85.4%), 
+60,964 light vehicles (12.0%), and 13,007 heavy vehicles (2.6%). 
+To purchase a sedan car of 1000cc or less for USD 10,000 in Cambodia, required total amount is USD 
+17,852.5, namely USD 10,000 for vehicle, USD 3,500 for import tax, USD 2,700 for special duty, USD 
+1,620 for value added tax, USD 10 for registration tax, and USD 22.5 to obtain a driver's license. As for 
+the operation and maintenance cost, USD 37.5 per year for road tax, USD 5 per year for vehicle 
+inspection fee and fuel cost are required. In order to control the rapidly increasing number of vehicles, 
+countermeasure such as increasing taxes on vehicle pu rchases and maintenance and allocating them to 
+road development and maintenance costs are also conceivable. 
+In Cambodia, driver's license doesn’t required for motorcycles of 125cc or less. Introduction of a license 
+system for motorcycles of 1255cc or less is required not only from the viewpoint of curbing the number 
+of vehicles but also from the viewpoint of traffic safety. 
+ 
+Source: JST based on MPWT 
+Figure 7.2.5  Number of Newly Registered Vehicles 
+
+
+[p222]
+Data Collection Survey on Urban Transport in Phnom Penh 
+Final Report 
+ 
+7-23 
+Since more than 3 years have passed after the Gra nd Aid Project, deterioration has been observed on 
+facilities and equipment such as the uninterruptible power supply (UPS). The fire extinguishing 
+equipment and the power generation equipment which is installed in the dedicated building on the north 
+side of the PPCA Building were installed in the Grant Aid Project. That equipment is not regularly 
+maintained. 
+Similarly, five years have passed since the server, wh ich is the basis of the traffic control system, was 
+installed when the Grant Aid Project started. Renewal of the server is required. However, it is expensive 
+to replace the software and countermeasures should be considered. 
+3) Uncontrolled On-street Parking and Limited Off-street Parking Facilities 
+Many private vehicles are parked on the street. Traf fic police is responsible for crackdown. However, 
+the illegal parking has been overlooked for many ye ars in Cambodia. Based on the result of parking 
+condition survey in CBD, parking occupancy ratio in peak hour was 125%, parking capacity was 7,134 
+PCU and parking demand was 5,705 PCU. There are not  enough parking facilities. PPCA is trying to 
+install off-street underground parking facilities in CBD area. On the other hand, illegal parking ratio was 
+86% based on the parking condition survey. It is necessary to strengthen crackdowns on illegal parking, 
+even parking facilities are constructed in future. 
+4) Further Improvement of Pedestrian Environment  
+The radiant roads that form the main structure of  Phnom Penh and the grid roads in the CBD were 
+formed during the French colonial era. Sufficient wi dth of sidewalk is secured and it forms a beautiful 
+cityscape together with some coloni al-style buildings that still remain. However, the large sidewalk 
+space is mainly occupied privately as a parking space. In addition, many narrow streets in the suburbs 
+have no sidewalks, or the sidewalks and shoulders are unpaved. Therefore, pedestrians are forced to 
+walk on the road. Safe and comfortable pedestrian environment isn’t secured. 
+   
+Source:   JST 
+Figure 7.2.8  Privatised Sidewalk and Unwalkable Pedestrian Walkway 
+Figure 7.2.9 illustrates the opinions on roadside parking collected in the Passenger Interview Survey. 
+71 % of respondents answered current situation is not acceptable for convenience. There are many users 
+
+
+[p223]
+Data Collection Survey on Urban Transport in Phnom Penh 
+Final Report 
+ 
+7-24 
+wish for crackdowns and further improvements. As “Secured from traffic accidents” is raised as a major 
+reason for using RHS, pedestrians are forced to walk  on roads since sidewalks are occupied by parked 
+vehicles and kiosks. Improving the pedestrian’s environment is vital for promoting public transport use 
+to improve access to a bus stop. 
+ 
+Source: Passenger Interview Survey (JST) 
+Figure 7.2.9  Opinions on Roadside Parking 
+5) Efficient Use of Existing Road Facility 
+The road spaces in Phnom Penh tend to be occupied by on-street parking, on-street stopping cars/trucks, 
+RHS vehicles waiting for passengers, Kiosks and so forth. Compared with other cities in surrounding 
+countries, the width of major roads is relatively wide in Phnom Penh due to the historical urban 
+development. Therefore, the road capacity will increase if illegal parking and occupancies are excluded. 
+6) Driver Education and Traffic Enforcement  
+Disregarding traffic rules and traffic lights/road ma rkings is a long-time habit of Phnom Penh citizens 
+and the amendment to the Road Traffic Law in 2016 th at a driver’s licence is not required to drive a 
+motorcycle under 125cc has made the situation worse and increased traffic accidents in Phnom Penh. 
+7) Others 
+Second-hand cars are sold along a busy carriageway/sidewalk in the CBD reducing traffic capacity. 
+There is no organisation that manages urban transport as a whole. For example, roads, traffic lights and 
+part of traffic management measures such as one-way system and traffic safety are under DPWT. 
+Although one-way system was introduced on some streets already, new introduction of one-way system 
+is not progressing due to the inadequate organisation structure of DPWT. On the other hand, City Bus 
+operation and parking measures are directly managed by PPCA. 
+In addition, the legal system that covers the entire urban transport is not sufficient; for example, 
+positioning of paratransit in the road related law. 
+On the other hand, telework started in Phnom Penh with the COVID-19 pandemic; however, it is unclear 
+whether telework, which is one of the effective traffic demand management measures, will take root as 
+a new work style. 
+
+
+[p230]
+Data Collection Survey on Urban Transport in Phnom Penh 
+Final Report 
+ 
+7-31 
+7.3 Issues in Urban Transport Sector and Causal Relationship Analysis 
+7.3.1  Fragmented Efforts to Improve Urban Transport Sectors 
+To improve the urban transport in Phnom Penh, se veral efforts such as urban road development and 
+widening, traffic signal instalment, City Bus operation, etc. have been made based on PPUTMP. However, 
+those efforts are fragmented and not effective to ch ange the behaviour of citizens, namely shifting from 
+private vehicle users to public transport users. 
+For instance, the City Bus service has been provided. However, it has low punctuality and access route for 
+bus stops are not secured. Also, illegal on-street parking is a social problem since the parking demand is 
+beyond the supply of parking facilities and traffic police doesn’t crackdown on illegal parking. Even though 
+several roads are developed, the impact is limite d. Although RHS improves the convenience of users, it 
+also has a negative impact on non-RHS users, such as reduced road traffic safety and induction of traffic 
+congestion. 
+In order to bring a behaviour change to Phnom Penh c itizens, it is necessary to stand from the user's point 
+of view, effectively connecting fragmented efforts, and securing a series of comfortable means of transport 
+and space from origin to destination. 
+ 
+Source: JST 
+Figure 7.3.1  Past Efforts to Improve Urban Transport and Emerging Issues 
+As shown in 6.1, some projects proposed in PPUTMP, which required large-scale investment and relocation, 
+such as urban railway development and flyover construction in the CBD area, have not been implemented 
+due to financial and social environment constraints. Regarding traffic management measures, although the 
+signalized intersections project was implemented, the progress of traffic management measures that 
+promote public transport, such as sidewalk improvement, traffic demand management and one-way systems 
+is limited. In the future, it will be necessary to make maximum use of existing infrastructure, facilities and 
+space without large-scale investment or large-scale relocation and to improve urban transport by combining 
+appropriate traffic management measures. 
+Occupied / 
+damaged 
+sidewalk
+No enough 
+parking 
+space & Info.
+No punctual 
+/ low speed
+No discipline 
+/ illegal 
+parking
+Occupied / 
+damaged 
+sidewalk
+No info. on 
+bus 
+stop/route
+Far from 
+home / hot 
+to wait
+Congestion
+Expanding city areaNew city High dense
+Bus operation 
+& management 
+improvement
+Road 
+construction 
+/ widening / 
+signal install
+Parking 
+construction
+Fragmented Efforts
+Increasing car ownership rate 
+and mobile phone user / no 
+custom of public transport Limited space
+Need to allocate 
+l
+imited budget
+
+[p231]
+Data Collection Survey on Urban Transport in Phnom Penh 
+Final Report 
+ 
+7-32 
+ 
+Source: JST 
+Figure 7.3.2  Progress of Projects Proposed in PPUTMP and Future Direction of 
+Urban Transport Improvement 
+7.3.2 Causal Relationship Analysis on Issues to Promote Public Transport 
+The Survey particularly focuses on the causes of the stagnation of public transport use expansion, which is 
+one of the goals of PPUTMP. The following figure illustrates the issues and countermeasures that were 
+identified in the Survey. 
+ 
+Note: PI (Public Involvement) 
+Source: JST 
+Figure 7.3.3  Issues for Achieving Goals of PPUTMP and Causal Relationship 
+Regarding the City Bus, which plays a major role in  public transport in Phnom Penh, the major reasons 
+why car, motorcycle and RHS users do not use the City Bus are “Car is comfortable”, “Bus stop far from 
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Rail transit system
+Restructuring of the bus system including rail transit feeder
+Improvement of conventional railway and water transport
+Bus system with priority measures
+Restructuring of paratransit
+One-way system
+Parking regulation and off-road  parking development
+Signal intersection improvement
+Driver’s education and traffic enforcement
+Development of pedestrian environment
+Traffic demand management
+Completion of middle ring road and outer ring road
+Completion of radial-ring pattern trunk road network
+Expansion of road network to new Phnom Penh Area
+Construction of flyover (Mainly CBD area)
+Construction of flyover (Mainly suburban area)
+Progress of Proposed Projects in PPUTMP by Components
+Complete Partialy Complete F/S Stage Suspended Incomplete Unknown
+Public Transport
+Highway
+Traffic Management
+Financial 
+Constrain
+Spacial 
+Constraints
+Efficient Use of Funds 
+and Space is Required
+
+
+[p233]
+Data Collection Survey on Urban Transport in Phnom Penh 
+Final Report 
+ 
+7-34 
+ 
+Source: RHS Driver Interview Survey, RHS User Interview Survey (JST) 
+Figure 7.3.6  Important Items for Integration of  City Bus and RHS (RHS Drivers and RHS Users) 
+7.3.3 Causal Relationship Analysis on On-street Parking Issues 
+Illegal parking on the sidewalk is one of the reasons  why the access environment to the bus stops is not 
+secured. The figure below shows the results of a causal  relationship analysis on  illegal parking based on 
+the results of a parking condition survey and countermeasures to improve. 
+As the reason for not parking in the parking lot, 36% of the respondents answered the difficulty in finding 
+an available parking space, followed by 19% of the respondents who answered the issue of parking fees, 
+17% of the respondents who assume there is no risk of crack down and 12 % of respondents who said that 
+there was no parking lot near the destination. In addition to the issue of parking capacity, it is also necessary 
+to provide parking information. Considering budgetary and land constraint, it is effective to provide parking 
+information since it makes the best use of existing parking facilities. 
+ 
+Source: JST 
+Figure 7.3.7  Causal Relationship on On-street Parking Issues 
+  
+168
+159
+217
+190
+180
+19
+175
+119
+181
+130
+49
+72
+0 50 100 150 200 250
+1. Improve transfer point
+2. Integration of route search
+3. Integration of booking
+4. Integration of payment
+5. Discount for mixed use of city bus and RHS
+6. Others Passenger Driver
+Passenger:  n = 496, Driver: n = 409*Multiple selections (up to 2) are allowed.
+
+
+[p234]
+Data Collection Survey on Urban Transport in Phnom Penh 
+Final Report 
+ 
+7-35 
+ 
+BOX 5: Smart Parking System in Santander, Spain 
+A smart parking system installed in a roadside parking space in the city of Santander. A magnetic sensor is 
+embedded in the road surface to collect information on the presence or absence of parking. It is displayed 
+for the driver on the information panel provided on th e road. The upper part of the panel shows the entire 
+parking zone, and the lower part shows the availability information of the road to go. 
+  
+Source: Smart Sandar https://www.smartsantander.eu/ 

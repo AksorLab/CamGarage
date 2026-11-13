@@ -27,3 +27,22 @@
 ## Other cities
 
 - Siem Reap (tourists, hotels, Angkor) and Sihanoukville: **no research done**, search failed. See open questions.
+
+## Round 2 additions
+
+### Phnom Penh parking supply and demand (JICA, Data Collection Survey on Urban Transport in Phnom Penh, Final Report)
+Source: https://openjicareport.jica.go.jp/pdf/12371746_01.pdf. Extracted parking pages are in `data/jica_parking_pages.txt`.
+
+- **[source-claim]** In the CBD, parking **demand exceeds capacity** (off-street plus on-street). Survey covered 17 parking facilities and 38 on-street sections. Legal parking capacity in Blocks A to E is 5,705 PCU (read from chart label).
+- **[source-claim]** Demand is high in daytime and drops at night.
+- **[source-claim]** Why drivers park illegally on the street: 36% say it is hard to find a free space, 19% parking fees, 17% assume no crackdown risk, 12% no lot near the destination. The report concludes parking information is also needed. This supports a directory with availability.
+- **[source-claim]** 71% disagree that the current illegal parking situation is acceptable, and 90% agree illegal parking should be strictly controlled.
+- **[source-claim]** If a 25,000 KHR fine were enforced, 66% would still drive to the CBD; of those, 98% would use the closest paid facility. Over half of those who would stop driving cite high fees and lack of lots.
+- **[source-claim]** Share of parked users walking under 50 m to the destination: 61% (2012), 45% (2022). People walk further now, so "near the destination" is getting harder.
+- **[source-claim]** Car mode share rose from 9.9% (2012) to 14.9% (2022), projected 20-22% by 2035.
+- **[source-claim]** The inventory survey records name, floor area, hours, capacity and fee per facility. The exact tables are in figures I could not extract; read the PDF pages 5-35 to 5-38 by hand.
+
+### Regulation
+- **[source-claim]** The JICA report says on-street parking has no clear legal definition of legal/illegal; the survey had to invent one. MPWT, with JICA support, was drafting a **parking law** (bill planned by June 2023) covering parking management areas, on-street and setback parking, off-street parking, mandatory building parking, fees and penalties. **Status unknown**; check whether it passed.
+- **[source-claim]** History: Phnom Penh Post 2009 quotes a deputy governor saying there were no rules on on-street parking. In 2010 a one-week pilot on Charles de Gaulle Blvd (120 m, Streets 107-109) gave 1 hour free, then 500 to 20,000 riel; shop owners complained. https://www.phnompenhpost.com/national/parking-fees-spark-complaints/ Old and may be outdated.
+- **[assumption]** Informal street and sidewalk parking is still common and fees are set by whoever runs the spot.
